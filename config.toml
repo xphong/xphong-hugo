@@ -4,7 +4,7 @@ title = "Software Developer"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-34685374-3"
 theme = "hugo-sustain"
 
 [permalinks]
