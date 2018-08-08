@@ -156,6 +156,9 @@ html, body {
 .avatar {
   padding-top: 5%;
 }
+.avatar > img {
+  max-width: 190px;
+}
 .blog-post{
   padding-top: 15px;
 }
