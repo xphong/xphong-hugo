@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "en-US"
+title = "Phong Huynh - Software Developer"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "avatar.jpeg"
+  author = "Phong Huynh"
+  description = "Software Developer from Toronto, Canada. Passionate about clean code, minimal design, and learning new things."
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = ["main.css"]
+  custom_js  = []
+
+[params.social]
+  Github        = "xphong"
+  Email         = "info@phonghuynh.ca"
+  Twitter       = "xphong"
+  LinkedIn      = "phonghuynh"
+  Stackoverflow = "xphong"
+  Medium        = "xphong"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
