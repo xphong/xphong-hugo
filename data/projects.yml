@@ -1,36 +1,31 @@
 name: Projects
 source:
   - icon: fa fa-github
-    name: Project 1
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
-    url: https://github.com/nurlansu/hugo-sustain
+    name: Marvel App
+    description: Full Stack - React/Redux + Node/MongoDB + Marvel API. https://marvel-app9000.herokuapp.com/
+    url: https://github.com/xphong/marvel-app
 
   - icon: fa fa-github
-    name: Project 2
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-    url: https://github.com/nurlansu/hugo-sustain
+    name: Simple React Redux Starter
+    description: Simple React Redux Starter/Boilerplate. With ES6, Webpack, Router, Dev Tools, Axios. https://xphong.github.io/simple-react-redux-starter
+    url: https://github.com/xphong/simple-react-redux-starter
 
-  - icon: fa fa-github
-    name: Project 3
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-    url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-pencil
+    name: Why End-to-End Testing is Important for Your Team
+    description: Blog post on how our team implemented end to end testing in 4 easy steps.
+    url: https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504
 
-  - icon: fa fa-globe
-    name: Project 4
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-    url: https://github.com/nurlansu/hugo-sustain
+  - icon: fa fa-pencil
+    name: Marvel API + Vuepack (Vue + Vuex)
+    description: Blog post on getting started with Vue, Vuex, and API calls
+    url: https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
 
-  - icon: fa fa-globe
-    name: Project 5
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-    url: https://github.com/nurlansu/hugo-sustain
-
-  - icon: fa fa-cog
+  - icon: fa fa-list-ul
     name: Project 6
     description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-    url: https://github.com/nurlansu/hugo-sustain
+    url: https://github.com/xphong
 
-  - icon: fa fa-cog
+  - icon: fa fa-list-ul
     name: Project 7
     description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
-    url: https://github.com/nurlansu/hugo-sustain
+    url: https://github.com/xphong
