@@ -25,8 +25,6 @@ Here is the first version of the interface:
 
 [<img class="alignnone size-full wp-image-470" src="/wp-content/uploads/2013/02/phpinterfaceold.jpg" alt="Old PHP Interface " width="500" height="416" srcset="/wp-content/uploads/2013/02/phpinterfaceold.jpg 500w, /wp-content/uploads/2013/02/phpinterfaceold-300x249.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/wp-content/uploads/2013/02/phpinterfaceold.jpg)
 
-I have to admit that I half-assed it because of a due date, but as you can see it is using the font Arial.
-
 Now here is the redesign using web fonts (Actual link &#8211; <a title="http://shopright.phonghuynh.ca" href="http://shopright.phonghuynh.ca" target="_blank">http://shopright.phonghuynh.ca</a>):
 
 [<img class="alignnone size-full wp-image-471" src="/wp-content/uploads/2013/02/phpinterfacenew.jpg" alt="New PHP Interface" width="500" height="396" srcset="/wp-content/uploads/2013/02/phpinterfacenew.jpg 500w, /wp-content/uploads/2013/02/phpinterfacenew-300x237.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/wp-content/uploads/2013/02/phpinterfacenew.jpg)
@@ -68,28 +66,9 @@ Another way to use web fonts is with Google Web Fonts. Their way is much easier 
 
 There are three different ways to add the font using Google Web Fonts, the most common is @import.
 
-<div>
-  <pre><em>@import url(http://fonts.googleapis.com/css?family=Open+Sans);</em></pre>
-
-  <pre>and then</pre>
-
-  <div>
-    <p>
-      <em>p {</em>
-    </p>
-
-    <pre><em>     font-family: 'Open Sans', sans-serif;</em></pre>
-
-    <p>
-      <em>}</em>
-    </p>
-
-    <p>
-      All of the coding and instructions are on Google&#8217;s API when you select use.
-    </p>
-
-    <div class="project-action">
-      <a class="button big green  button-icon" href="https://phong.io"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
-    </div>
-  </div>
-</div>
+```
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+```

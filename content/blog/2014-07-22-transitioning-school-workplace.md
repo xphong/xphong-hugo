@@ -17,6 +17,7 @@ tags:
   - school
   - web development
 ---
+![](/wp-content/uploads/2014/07/awhCbhLqRceCdjcPQUnn_IMG_02491.jpg)
 It has been around a year since I graduated and I can still remember how anxious I was about going into the workplace. After nearly a year of working in the industry, I feel that sharing my experiences will be helpful to those currently transitioning from school to the workplace.
 
 ### Table of Contents

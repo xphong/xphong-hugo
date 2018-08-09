@@ -33,17 +33,14 @@ Car model website does not receive check box list items for drop down list items
 
 <span style="text-decoration: underline;">Impact:</span> User cannot see the specific options for each car model when they select it.
 
-<span style="text-decoration: underline;"><br /> Solution:</span>_
+<span style="text-decoration: underline;"><br /> Solution:</span>
 
-if (!Page.IsPostBack)
-
-{
-
-ddlModels.DataSource = ModelsList;
-
-ddlModels.DataBind();
-
-}_
+```
+if (!Page.IsPostBack) {
+  ddlModels.DataSource = ModelsList;
+  ddlModels.DataBind();
+}
+```
 
 This code makes it so that the data source does not reset to the first item if the page does not
 

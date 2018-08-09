@@ -16,6 +16,7 @@ tags:
   - blog
   - EJB
 ---
+![](/wp-content/uploads/2012/04/Image1-455x270.gif)
 Entity Bean lab for Distributed Computing using Java class. The purpose of this lab is to develop an EJB application that uses the entity bean which is used for accessing data inside of a database.
 
 <span style="text-decoration: underline;">Problem:</span>
@@ -24,21 +25,18 @@ Wrong type is entered for customer id.
 
 The code given in the lab is old and uses string as customer id.
 
-_<% InitialContext ic = new InitialContext();_
+```
+<% InitialContext ic = new InitialContext();
+Object o = ic.lookup(CustomerSessionRemote.class.getName());
+CustomerSessionRemote custSession = (CustomerSessionRemote) o;
 
- _Object o = ic.lookup(CustomerSessionRemote.class.getName());_
+Customerinfo customer = custSession.searchForCustomerRemote(“120”);
+if(customer!=null){
+out.print(customer.getCustomername());
+}
+%>
+```
 
- _CustomerSessionRemote custSession = (CustomerSessionRemote) o;_
-
-_Customerinfo customer = custSession.searchForCustomerRemote(&#8220;120&#8221;);_
-
- _if(customer!=null){_
-
- _out.print(customer.getCustomername());_
-
- _}_
-
- _%>_
 
 <span style="text-decoration: underline;">Impact:</span>
 
@@ -50,30 +48,27 @@ Unable to receive customer information from the database table.
 
 Change the id to an integer.
 
-_Customerinfo customer = custSession.searchForCustomerRemote(120);_
 
-_Also have to change the methods to receive an integer for it to work._
+```
+Customerinfo customer = custSession.searchForCustomerRemote(120);
+// Also have to change the methods to receive an integer for it to work.
+@Remote
+public interface CustomerSessionRemote {
 
-_@Remote_
+  Customerinfo searchForCustomerRemote(Integer id);
 
-_public interface CustomerSessionRemote {_
+}
 
-_Customerinfo searchForCustomerRemote(Integer id);_
+@TransactionManagement(value=TransactionManagementType.CONTAINER)
 
-_}_
+public class CustomerSessionBean implements CustomerSessionRemote, CustomerSessionLocal {
 
-_@TransactionManagement(value=TransactionManagementType.CONTAINER)_
+  @javax.persistence.PersistenceContext(unitName=”persistence_sample”)
+  private EntityManager em ;
 
-_public class CustomerSessionBean implements CustomerSessionRemote, CustomerSessionLocal {_
-
-_@javax.persistence.PersistenceContext(unitName=&#8221;persistence_sample&#8221;)_
-
- _private EntityManager em ;_
-
-_public Customerinfo searchForCustomerLocal(Integer id) {_
-
- _Customerinfo cust = (Customerinfo)em.find(Customerinfo.class, id);_
-
- _return cust;_
-
- _}_
+  public Customerinfo searchForCustomerLocal(Integer id) {
+    Customerinfo cust = (Customerinfo)em.find(Customerinfo.class, id);
+    return cust;
+  }
+}
+```

@@ -7,7 +7,8 @@ html, body {
   border-top: 3px solid #3ea5ce;
 }
 
-figcaption {
+figcaption,
+.wp-caption-text {
   font-size: 12px;
 }
 

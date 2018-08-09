@@ -28,20 +28,6 @@ After graduating, I felt that my skills were &#8216;good enough&#8217; to seek a
 
 I found an intern position at a company called Dashboard on Humber College&#8217;s co-op website (would never thought I would be using that website). The interview was quite interesting, I met with the two Directors of Technology and I had expected a technical interview but instead I was bombed with some difficult questions. They told me that they were just testing my skill level, but these questions were harder than the questions I was asked during an interview for a full-time position. I was actually sweating because of the heat that day&#8230; totally not because I struggled so hard haha. Anyway, at the end of the interview they had offer me the internship position, even though I thought I bombed that interview. I accepted it instantly because it would be awesome to learn from these guys.
 
-<div class="flexslider" data-autoplay="true" data-interval="3000" data-animation="slide" data-direction="horizontal" data-animationSpeed="600"  data-pauseOnHover="true">
-  <ul class="slides">
-    <li>
-      <img alt="" src="/wp-content/uploads/2014/01/santa-imac.png" />
-    </li>
-    <li>
-      <img alt="" src="/wp-content/uploads/2014/01/santa-ipad.png" />
-    </li>
-    <li>
-      <img alt="" src="/wp-content/uploads/2014/01/santa-iphone.png" />
-    </li>
-  </ul>
-</div>
-
 ## A Learning Experience
 
 The first project I got put on was a redesign of The Toronto Santa Claus Parade website. They had design comps built out for a few of the pages and they asked me to create the static HTML/CSS pages. This was incredibly overwhelming because it was the first week of my internship and they got me on a pretty big project. The Toronto Santa Claus Parade website gets over a hundred thousand unique visits during the month of the parade. Their development pattern included using Foundation with Compass which I had no experience with, I didn&#8217;t even know what Compass was. After doing some research, I found out that Compass is just a Sass extension/framework that helps compile and write Sass stylesheets. In addition, Compass has a large collection of mixins and functions you can use with Sass.
@@ -74,8 +60,6 @@ Another thing I learned is that note taking is extremely important and useful. D
 ### TL;DR
 
 Your skills should never be &#8216;good enough&#8217;. Internship is pretty cool, you will learn and experience lots.
-
-<a title="The Santa Claus Parade" href="http://www.thesantaclausparade.com" target="_blank"><img class="alignnone size-full wp-image-745" src="/wp-content/uploads/2014/01/santa-responsive.png" alt="santa-responsive" width="753" height="447" srcset="/wp-content/uploads/2014/01/santa-responsive.png 753w, /wp-content/uploads/2014/01/santa-responsive-300x178.png 300w" sizes="(max-width: 753px) 100vw, 753px" /></a>
 
 ### Check out the finished website!
 

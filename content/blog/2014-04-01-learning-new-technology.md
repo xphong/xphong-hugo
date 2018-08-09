@@ -17,6 +17,7 @@ tags:
   - experience
   - learning
 ---
+![](/wp-content/uploads/2014/05/yeomanyo.jpg)
 It&#8217;s tough learning a new technology because you have no idea where to start, so you end up procrastinating and saying that you will learn it later or &#8220;tomorrow&#8221; and then it never happens. This still happens to me, but I have found a solution! The best way to learn a new library or framework is to use it on an existing project or use it on a new project. However, it depends on the person you are, everyone is different and you may learn better through videos, tutorials, or reading without using it on a project. For myself, I have found that I have the most fun when I am learning through an interesting and exciting project.
 
 <div class="tagline">
@@ -80,299 +81,69 @@ I have found that the main benefit to using templating tools is that you can hav
 
 ### Code Before:
 
-forecast.js
-
-<pre class="prettyprint linenums"><div id="LC38" class="line">
-    <span class="c1" style="font-style: italic; color: #999988;">// jQuery selectors</span>
-</div>
-
-
-<div id="LC39" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$temperature</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#temperature'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC40" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$aTemperature</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#atemperature'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC41" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$summary</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#summary'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC42" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$icon</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#icon'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC43" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$wind</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#wind'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC44" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$pop</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#pop'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC45" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">$humidity</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'#humidity'</span><span class="p">);</span>
-</div>
-
-
-<div class="line">
-
-</div>
-
-
-<div id="LC238" class="line">
-    <span class="c1" style="font-style: italic; color: #999988;">// updates the display after making the call to forecast.io</span>
-</div>
-
-
-<div id="LC239" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">updateDisplay</span> <span class="o" style="font-weight: bold;">=</span> <span class="kd" style="font-weight: bold;">function</span><span class="p">(){</span>
-</div>
-
-
-<div id="LC240" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_temperature</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getCelsius</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">temperature</span><span class="p">);</span>
-</div>
-
-
-<div id="LC241" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_aTemperature</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getCelsius</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">apparentTemperature</span><span class="p">);</span>
-</div>
-
-
-<div id="LC242" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_summary</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">summary</span><span class="p">;</span>
-</div>
-
-
-<div id="LC243" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_icon</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">icon</span><span class="p">;</span>
-</div>
-
-
-<div id="LC244" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_windSpeed</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getWindSpeed</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">windSpeed</span><span class="p">);</span>
-</div>
-
-
-<div id="LC245" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_windDir</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getWindDir</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">windBearing</span><span class="p">);</span>
-</div>
-
-
-<div id="LC246" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_pop</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getPOP</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">precipProbability</span><span class="p">);</span>
-</div>
-
-
-<div id="LC247" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">_humidity</span> <span class="o" style="font-weight: bold;">=</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getHumidity</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">humidity</span><span class="p">);</span>
-</div>
-
-
-<div id="LC248" class="line">
-
-</div>
-
-
-<div id="LC249" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">displayBG</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_icon</span><span class="p">);</span>
-</div>
-
-
-<div id="LC250" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$temperature</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_temperature</span> <span class="o" style="font-weight: bold;">+</span> <span class="s1" style="color: #dd1144;">'&lt;sup&gt;°&lt;/sup&gt;'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC251" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$aTemperature</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'&lt;strong&gt;Feels like '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_aTemperature</span> <span class="o" style="font-weight: bold;">+</span> <span class="s1" style="color: #dd1144;">'&lt;/strong&gt;'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC252" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$summary</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_summary</span><span class="p">);</span>
-</div>
-
-
-<div id="LC253" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$wind</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'Wind '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_windDir</span> <span class="o" style="font-weight: bold;">+</span> <span class="s1" style="color: #dd1144;">' '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_windSpeed</span> <span class="o" style="font-weight: bold;">+</span> <span class="s1" style="color: #dd1144;">' km/h'</span><span class="p">);</span>
-</div>
-
-
-<div id="LC254" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$pop</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'P.O.P. '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_pop</span><span class="p">);</span>
-</div>
-
-
-<div id="LC255" class="line">
-      <span class="nx">f</span><span class="p">.</span><span class="nx">$humidity</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'Humidity '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_humidity</span><span class="p">);</span>
-</div>
-
-
-<div id="LC256" class="line">
-    <span class="p">};</span>
-</div>
-</pre>
-
-index.html
-
-<pre class="prettyprint linenums"><div id="LC21" class="line">
-      <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"container"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC22" class="line">
-        <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"row"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC23" class="line">
-          <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"weather-container small-12 small-centered medium-10 medium-centered large-8 large-centered columns"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC24" class="line">
-            <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"dateicon-container row"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC25" class="line">
-              <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"large-4 medium-4 small-8 columns"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC26" class="line">
-                <span class="nt" style="color: navy;"><h3</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"date"</span><span class="nt" style="color: navy;">></span>01/01/2014<span class="nt" style="color: navy;"></h3></span>
-</div>
-
-
-<div id="LC27" class="line">
-                <span class="nt" style="color: navy;"><h5</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"day"</span><span class="nt" style="color: navy;">></span>MONDAY<span class="nt" style="color: navy;"></h5></span>
-</div>
-
-
-<div id="LC28" class="line">
-                <span class="nt" style="color: navy;"><h5</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"time"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC29" class="line">
-                  <span class="nt" style="color: navy;"><span</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"hours"</span><span class="nt" style="color: navy;">></span>12<span class="nt" style="color: navy;"></span></span>
-</div>
-
-
-<div id="LC30" class="line">
-                  <span class="nt" style="color: navy;"><span</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"point"</span><span class="nt" style="color: navy;">></span>:<span class="nt" style="color: navy;"></span></span>
-</div>
-
-
-<div id="LC31" class="line">
-                  <span class="nt" style="color: navy;"><span</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"minutes"</span><span class="nt" style="color: navy;">></span>00<span class="nt" style="color: navy;"></span></span>
-</div>
-
-
-<div id="LC32" class="line">
-                <span class="nt" style="color: navy;"></h5></span>
-</div>
-
-
-<div id="LC33" class="line">
-              <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC34" class="line">
-              <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"large-2 medium-2 small-4 columns right"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC35" class="line">
-                <span class="nt" style="color: navy;"><h3</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"icon"</span> <span class="na" style="color: teal;">data-icon=</span><span class="s" style="color: #dd1144;">"R"</span><span class="nt" style="color: navy;">></h3></span>
-</div>
-
-
-<div id="LC36" class="line">
-              <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC37" class="line">
-            <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC38" class="line">
-            <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"temperature-container row"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC39" class="line">
-              <span class="nt" style="color: navy;"><h1</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"temperature"</span><span class="nt" style="color: navy;">></span>24<span class="nt" style="color: navy;"><sup></span>°<span class="nt" style="color: navy;"></sup></h1></span>
-</div>
-
-
-<div id="LC40" class="line">
-              <span class="nt" style="color: navy;"><h2</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"summary"</span><span class="nt" style="color: navy;">></span>Rain<span class="nt" style="color: navy;"></h2></span>
-</div>
-
-
-<div id="LC41" class="line">
-            <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC42" class="line">
-            <span class="nt" style="color: navy;"><div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"forecast-container row"</span><span class="nt" style="color: navy;">></span>
-</div>
-
-
-<div id="LC43" class="line">
-              <span class="nt" style="color: navy;"><h4</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"atemperature"</span><span class="nt" style="color: navy;">></span>Feels like 30<span class="nt" style="color: navy;"></h4></span>
-</div>
-
-
-<div id="LC44" class="line">
-              <span class="nt" style="color: navy;"><h5</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"pop"</span><span class="nt" style="color: navy;">></span>P.O.P 80%<span class="nt" style="color: navy;"></h5></span>
-</div>
-
-
-<div id="LC45" class="line">
-              <span class="nt" style="color: navy;"><h5</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"wind"</span><span class="nt" style="color: navy;">></span>Wind SW 25 km/h<span class="nt" style="color: navy;"></h5></span>
-</div>
-
-
-<div id="LC46" class="line">
-              <span class="nt" style="color: navy;"><h5</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"humidity"</span><span class="nt" style="color: navy;">></span>Humidity 80%<span class="nt" style="color: navy;"></h5></span>
-</div>
-
-
-<div id="LC47" class="line">
-            <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC48" class="line">
-          <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC49" class="line">
-        <span class="nt" style="color: navy;"></div></span>
-</div>
-
-
-<div id="LC50" class="line">
-      <span class="nt" style="color: navy;"><span class="nt" style="color: navy;"></div>
-  </pre>
-
+forecast.js:
+```
+  // jQuery selectors
+  f.$temperature = $('#temperature');
+  f.$aTemperature = $('#atemperature');
+  f.$summary = $('#summary');
+  f.$icon = $('#icon');
+  f.$wind = $('#wind');
+  f.$pop = $('#pop');
+  f.$humidity = $('#humidity');
+  // updates the display after making the call to forecast.io
+  f.updateDisplay = function(){
+    f._temperature = f.getCelsius(f._currentTemperature.temperature);
+    f._aTemperature = f.getCelsius(f._currentTemperature.apparentTemperature);
+    f._summary = f._currentTemperature.summary;
+    f._icon = f._currentTemperature.icon;
+    f._windSpeed = f.getWindSpeed(f._currentTemperature.windSpeed);
+    f._windDir = f.getWindDir(f._currentTemperature.windBearing);
+    f._pop = f.getPOP(f._currentTemperature.precipProbability);
+    f._humidity = f.getHumidity(f._currentTemperature.humidity);
+    f.displayBG(f._icon);
+    f.$temperature.html(f._temperature + '<sup>°</sup>');
+    f.$aTemperature.html('<strong>Feels like ' + f._aTemperature + '</strong>');
+    f.$summary.html(f._summary);
+    f.$wind.html('Wind ' + f._windDir + ' ' + f._windSpeed + ' km/h');
+    f.$pop.html('P.O.P. ' + f._pop);
+    f.$humidity.html('Humidity ' + f._humidity);
+  };
+```
+
+index.html:
+```
+  <div class="container">
+    <div class="row">
+      <div class="weather-container small-12 small-centered medium-10 medium-centered large-8 large-centered columns">
+        <div class="dateicon-container row">
+          <div class="large-4 medium-4 small-8 columns">
+            <h3 id="date">01/01/2014</h3>
+            <h5 id="day">MONDAY</h5>
+            <h5 id="time">
+              <span id="hours">12</span>
+              <span id="point">:</span>
+              <span id="minutes">00</span>
+            </h5>
+          </div>
+          <div class="large-2 medium-2 small-4 columns right">
+            <h3 id="icon" data-icon="R"></h3>
+          </div>
+        </div>
+        <div class="temperature-container row">
+          <h1 id="temperature">24<sup>°</sup></h1>
+          <h2 id="summary">Rain</h2>
+        </div>
+        <div class="forecast-container row">
+          <h4 id="atemperature">Feels like 30</h4>
+          <h5 id="pop">P.O.P 80%</h5>
+          <h5 id="wind">Wind SW 25 km/h</h5>
+          <h5 id="humidity">Humidity 80%</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+```
 
   <p>
     For the code before using Mustache, I had a bunch of jQuery selectors which were accessing the DOM and every time I wanted to change a DOM element I had to use the selector to change it. In addition, I also had a bunch of default placeholder text in the HTML file.</span></span>
@@ -385,312 +156,101 @@ index.html
 
 
   <p>
-    forecast.js
+    forecast.js:
   </p>
 
-
-  <pre class="prettyprint linenums">
-
-
-<div id="LC343" class="line">
-    <span class="c1" style="font-style: italic; color: #999988;">// updates the display after making the call to forecast.io</span>
-</div>
-
-
-<div id="LC344" class="line">
-    <span class="nx">f</span><span class="p">.</span><span class="nx">updateDisplay</span> <span class="o" style="font-weight: bold;">=</span> <span class="kd" style="font-weight: bold;">function</span><span class="p">(){</span>
-</div>
-
-
-<div id="LC345" class="line">
-      <span class="c1" style="font-style: italic; color: #999988;">// JSON object for data</span>
-</div>
-
-
-<div id="LC346" class="line">
-      <span class="kd" style="font-weight: bold;">var</span> <span class="nx">data</span> <span class="o" style="font-weight: bold;">=</span> <span class="p">{</span>
-</div>
-
-
-<div id="LC347" class="line">
-        <span class="s1" style="color: #dd1144;">'date'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getDate</span><span class="p">(),</span>
-</div>
-
-
-<div id="LC348" class="line">
-        <span class="s1" style="color: #dd1144;">'day'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getDay</span><span class="p">(),</span>
-</div>
-
-
-<div id="LC349" class="line">
-        <span class="s1" style="color: #dd1144;">'hour'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getHour</span><span class="p">(),</span>
-</div>
-
-
-<div id="LC350" class="line">
-        <span class="s1" style="color: #dd1144;">'minute'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getMinute</span><span class="p">(),</span>
-</div>
-
-
-<div id="LC351" class="line">
-        <span class="s1" style="color: #dd1144;">'icon'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">displayBG</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">icon</span><span class="p">),</span>
-</div>
-
-
-<div id="LC352" class="line">
-        <span class="s1" style="color: #dd1144;">'temperature'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getCelsius</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">temperature</span><span class="p">),</span>
-</div>
-
-
-<div id="LC353" class="line">
-        <span class="s1" style="color: #dd1144;">'aTemperature'</span><span class="o" style="font-weight: bold;">:</span> <span class="s1" style="color: #dd1144;">'Feels like '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getCelsius</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">apparentTemperature</span><span class="p">),</span>
-</div>
-
-
-<div id="LC354" class="line">
-        <span class="s1" style="color: #dd1144;">'summary'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">summary</span><span class="p">,</span>
-</div>
-
-
-<div id="LC355" class="line">
-        <span class="s1" style="color: #dd1144;">'windSpeed'</span><span class="o" style="font-weight: bold;">:</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getWindSpeed</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">windSpeed</span><span class="p">)</span> <span class="o" style="font-weight: bold;">+</span> <span class="s1" style="color: #dd1144;">' km/h'</span><span class="p">,</span>
-</div>
-
-
-<div id="LC356" class="line">
-        <span class="s1" style="color: #dd1144;">'windDir'</span><span class="o" style="font-weight: bold;">:</span> <span class="s1" style="color: #dd1144;">'Wind '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getWindDir</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">windBearing</span><span class="p">),</span>
-</div>
-
-
-<div id="LC357" class="line">
-        <span class="s1" style="color: #dd1144;">'pop'</span><span class="o" style="font-weight: bold;">:</span> <span class="s1" style="color: #dd1144;">'P.O.P. '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getPOP</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">precipProbability</span><span class="p">),</span>
-</div>
-
-
-<div id="LC358" class="line">
-        <span class="s1" style="color: #dd1144;">'humidity'</span><span class="o" style="font-weight: bold;">:</span> <span class="s1" style="color: #dd1144;">'Humidity '</span> <span class="o" style="font-weight: bold;">+</span> <span class="nx">f</span><span class="p">.</span><span class="nx">getHumidity</span><span class="p">(</span><span class="nx">f</span><span class="p">.</span><span class="nx">_currentTemperature</span><span class="p">.</span><span class="nx">humidity</span><span class="p">)</span>
-</div>
-
-
-<div id="LC359" class="line">
-      <span class="p">};</span>
-</div>
-
-
-<div id="LC360" class="line">
-
-</div>
-
-
-<div id="LC361" class="line">
-      <span class="nx">$</span><span class="p">(</span><span class="s1" style="color: #dd1144;">'.weather-container'</span><span class="p">).</span><span class="nx">html</span><span class="p">(</span><span class="nx">Mustache</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="nx">template</span><span class="p">,</span> <span class="nx">data</span><span class="p">));</span>
-</div>
-
-
-<div id="LC362" class="line">
-    <span class="p">};</span>
-</div>
-</pre>
+```
+  // updates the display after making the call to forecast.io
+  f.updateDisplay = function(){
+    // JSON object for data
+    var data = {
+      'date': f.getDate(),
+      'day': f.getDay(),
+      'hour': f.getHour(),
+      'minute': f.getMinute(),
+      'icon': f.displayBG(f._currentTemperature.icon),
+      'temperature': f.getCelsius(f._currentTemperature.temperature),
+      'aTemperature': 'Feels like ' + f.getCelsius(f._currentTemperature.apparentTemperature),
+      'summary': f._currentTemperature.summary,
+      'windSpeed': f.getWindSpeed(f._currentTemperature.windSpeed) + ' km/h',
+      'windDir': 'Wind ' + f.getWindDir(f._currentTemperature.windBearing),
+      'pop': 'P.O.P. ' + f.getPOP(f._currentTemperature.precipProbability),
+      'humidity': 'Humidity ' + f.getHumidity(f._currentTemperature.humidity)
+    };
+    $('.weather-container').html(Mustache.render(template, data));
+  };
+```
 
 
   <p>
-    index.html
+    index.html:
   </p>
-
-
-  <pre class="prettyprint linenums">
-
-
-<div id="LC27" class="line">
-      <span class="nt" style="color: navy;">&lt;div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"container"</span><span class="nt" style="color: navy;">&gt;</span>
-</div>
-
-
-<div id="LC28" class="line">
-        <span class="nt" style="color: navy;">&lt;div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"row"</span><span class="nt" style="color: navy;">&gt;</span>
-</div>
-
-
-<div id="LC29" class="line">
-          <span class="nt" style="color: navy;">&lt;div</span> <span class="na" style="color: teal;">class=</span><span class="s" style="color: #dd1144;">"weather-container small-12 small-centered medium-10 medium-centered large-8 large-centered columns"</span><span class="nt" style="color: navy;">&gt;</span>
-</div>
-
-
-<div id="LC30" class="line">
-            <span class="nt" style="color: navy;">&lt;script </span><span class="na" style="color: teal;">type=</span><span class="s" style="color: #dd1144;">"text/html"</span> <span class="na" style="color: teal;">id=</span><span class="s" style="color: #dd1144;">"template"</span><span class="nt" style="color: navy;">&gt;</span>
-</div>
-
-
-<div id="LC31" class="line">
-             <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">div</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"dateicon-container row"</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC32" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">div</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"large-4 medium-4 small-8 columns"</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC33" class="line">
-                  <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h3</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">date</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h3&gt;</span>
-</div>
-
-
-<div id="LC34" class="line">
-                  <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h5</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"day"</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">day</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h5&gt;</span>
-</div>
-
-
-<div id="LC35" class="line">
-                  <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h5</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC36" class="line">
-                    <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">span</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">hour</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/span&gt;</span>
-</div>
-
-
-<div id="LC37" class="line">
-                    <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">span</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"point"</span><span class="o" style="font-weight: bold;">&gt;:&lt;</span><span class="err" style="color: #a61717;">/span&gt;</span>
-</div>
-
-
-<div id="LC38" class="line">
-                    <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">span</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">minute</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/span&gt;</span>
-</div>
-
-
-<div id="LC39" class="line">
-                  <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h5&gt;</span>
-</div>
-
-
-<div id="LC40" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/div&gt;</span>
-</div>
-
-
-<div id="LC41" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">div</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"large-2 medium-2 small-4 columns right"</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC42" class="line">
-                  <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h3</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"icon"</span> <span class="nx">data</span><span class="o" style="font-weight: bold;">-</span><span class="nx">icon</span><span class="o" style="font-weight: bold;">=</span><span class="p">{</span><span class="nx">icon</span><span class="p">}</span><span class="o" style="font-weight: bold;">&gt;&lt;</span><span class="err" style="color: #a61717;">/h3&gt;</span>
-</div>
-
-
-<div id="LC43" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/div&gt;</span>
-</div>
-
-
-<div id="LC44" class="line">
-              <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/div&gt;</span>
-</div>
-
-
-<div id="LC45" class="line">
-              <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">div</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"temperature-container row"</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC46" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h1</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">temperature</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="nx">sup</span><span class="o" style="font-weight: bold;">&gt;</span><span class="err" style="color: #a61717;">°</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/sup&gt;&lt;/h1&gt;</span>
-</div>
-
-
-<div id="LC47" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h2</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">summary</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h2&gt;</span>
-</div>
-
-
-<div id="LC48" class="line">
-              <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/div&gt;</span>
-</div>
-
-
-<div id="LC49" class="line">
-              <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">div</span> <span class="kr" style="font-weight: bold;">class</span><span class="o" style="font-weight: bold;">=</span><span class="s2" style="color: #dd1144;">"forecast-container row"</span><span class="o" style="font-weight: bold;">&gt;</span>
-</div>
-
-
-<div id="LC50" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h4</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">aTemperature</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h4&gt;</span>
-</div>
-
-
-<div id="LC51" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h5</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">pop</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h5&gt;</span>
-</div>
-
-
-<div id="LC52" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h5</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">windDir</span><span class="p">}</span> <span class="p">{</span><span class="nx">windSpeed</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h5&gt;</span>
-</div>
-
-
-<div id="LC53" class="line">
-                <span class="o" style="font-weight: bold;">&lt;</span><span class="nx">h5</span><span class="o" style="font-weight: bold;">&gt;</span><span class="p">{</span><span class="nx">humidity</span><span class="p">}</span><span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/h5&gt;</span>
-</div>
-
-
-<div id="LC54" class="line">
-              <span class="o" style="font-weight: bold;">&lt;</span><span class="err" style="color: #a61717;">/div&gt;</span>
-</div>
-
-
-<div id="LC55" class="line">
-            <span class="nt" style="color: navy;">&lt;/script&gt;</span>
-</div>
-
-
-<div id="LC56" class="line">
-          <span class="nt" style="color: navy;">&lt;/div&gt;</span>
-</div>
-
-
-<div id="LC57" class="line">
-        <span class="nt" style="color: navy;">&lt;/div&gt;</span>
-</div>
-
-
-<div id="LC58" class="line">
-      <span class="nt" style="color: navy;">&lt;/div&gt;</span>
-</div>
-</pre>
-
-
-  <p>
-    The code after gets rid of all the jQuery selectors and placeholder text for cleaner looking code.
-  </p>
-
-
-  <div class="tagline">
-    <h3>
-      The Results? &#8211; Got the job!
-    </h3>
-
+```
+  <div class="container">
+    <div class="row">
+      <div class="weather-container small-12 small-centered medium-10 medium-centered large-8 large-centered columns">
+        <script type="text/html" id="template">
+          <div class="dateicon-container row">
+            <div class="large-4 medium-4 small-8 columns">
+              <h3>{{date}}</h3>
+              <h5 class="day">{{day}}</h5>
+              <h5>
+                <span>{{hour}}</span>
+                <span class="point">:</span>
+                <span>{{minute}}</span>
+              </h5>
+            </div>
+            <div class="large-2 medium-2 small-4 columns right">
+              <h3 class="icon" data-icon={{icon}}></h3>
+            </div>
+          </div>
+          <div class="temperature-container row">
+            <h1>{{temperature}}<sup>°</sup></h1>
+            <h2>{{summary}}</h2>
+          </div>
+          <div class="forecast-container row">
+            <h4>{{aTemperature}}</h4>
+            <h5>{{pop}}</h5>
+            <h5>{{windDir}} {{windSpeed}}</h5>
+            <h5>{{humidity}}</h5>
+          </div>
+        </script>
+      </div>
+    </div>
   </div>
+```
 
 
-  <p>
-    Yep, I got the job just because I learned how to use Mustache. Kidding, there were many other factors involved, but during the interview I had mentioned that I learned Mustache because it was on the job application, I felt like that played a role in the offer. Even if I did not get the job it was still worth it to learn a technology that will help me in the future.
-  </p>
+
+<p>
+  The code after gets rid of all the jQuery selectors and placeholder text for cleaner looking code.
+</p>
 
 
-  <div class="project-action">
-    <a target="_blank" class="button big blue  button-icon" href="http://forecastvideo.phonghuynh.ca/"><i class="fa fa-eye"></i>VIEW WEBSITE</a><a target="_blank" class="button big red  button-icon" href="https://github.com/xphong/forecastvideo-app-v2"><i class="fa fa-github"></i>VIEW GITHUB REPO</a>
+<div class="tagline">
+  <h3>
+    The Results? &#8211; Got the job!
+  </h3>
 
-  </div>
-
-
-  <h2>
-    Conclusion
-  </h2>
+</div>
 
 
-  <p>
-    In conclusion, learning a new technology is fun and can be very beneficial. Personally, I find it even more fun when you are learning it with a cool project.
-  </p>
+<p>
+  Yep, I got the job just because I learned how to use Mustache. Kidding, there were many other factors involved, but during the interview I had mentioned that I learned Mustache because it was on the job application, I felt like that played a role in the offer. Even if I did not get the job it was still worth it to learn a technology that will help me in the future.
+</p>
+
+
+<div class="project-action">
+  <a target="_blank" class="button big red  button-icon" href="https://github.com/xphong/forecastvideo-app-v2"><i class="fa fa-github"></i>VIEW GITHUB REPO</a>
+
+</div>
+
+
+<h2>
+  Conclusion
+</h2>
+
+
+<p>
+  In conclusion, learning a new technology is fun and can be very beneficial. Personally, I find it even more fun when you are learning it with a cool project.
+</p>

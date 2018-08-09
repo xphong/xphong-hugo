@@ -26,11 +26,3 @@ However, there are a lot of things that you must do before you even start. The m
 After switching layouts you should check to see if all your SEO and tracking codes are in place correctly. You should also check to see if the RSS feed is still working so that you do not lose any current subscribers. Then you should test your new layout on all major browsers (Chrome, Internet Explorer, Firefox, Safari) and all mobile devices.
 
 Finally, you can compare the old layout to the new layout and see if you forgot anything.
-
-#### <span style="text-decoration: underline;">New Layout Screenshot</span>
-
-<img class="alignnone size-large wp-image-604" title="New Website" src="/wp-content/uploads/2013/03/websitess-760x1024.jpg" alt="New Website" width="760" height="1024" srcset="/wp-content/uploads/2013/03/websitess-760x1024.jpg 760w, /wp-content/uploads/2013/03/websitess-222x300.jpg 222w, /wp-content/uploads/2013/03/websitess.jpg 1024w" sizes="(max-width: 760px) 100vw, 760px" />
-
-#### <span style="text-decoration: underline;">Old Layout Screenshot</span>
-
-<img class="alignnone size-large wp-image-607" title="Old Website" src="/wp-content/uploads/2013/03/oldwebsitess-551x1024.jpg" alt="Old Website" width="551" height="1024" srcset="/wp-content/uploads/2013/03/oldwebsitess-551x1024.jpg 551w, /wp-content/uploads/2013/03/oldwebsitess-161x300.jpg 161w, /wp-content/uploads/2013/03/oldwebsitess.jpg 1024w" sizes="(max-width: 551px) 100vw, 551px" />

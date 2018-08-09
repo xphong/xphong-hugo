@@ -22,16 +22,4 @@ _background: url(images/right-arrow.png); _
 
 ### The Problem
 
-This seemed correct to me. I actually spent hours trying to google this problem, searching things like jQuery slider arrows not showing and jQuery navigation problem. After hours of googling, and a couple of Call of Duty breaks (Black Ops 2 just came out this week lol), I finally found an example of the jQuery slider except the person used _../images/right-arrow.png_. I remember from my old Unix class that .. is the parent directory, and I realized that the css file was in a separate folder called css. This means that the reference _images/right-arrow.png_ refers to the currect directory where there is no images folder. So using _../images_ would correctly reference the navigation arrows, and of course fix the **whole problem.**
-
-Anyway, here&#8217;s an image of my fully functional slider 🙂
-
-[<img class="alignnone size-full wp-image-393" title="Slider" alt="Slider" src="/wp-content/uploads/2012/11/slider.jpg" width="1054" height="486" srcset="/wp-content/uploads/2012/11/slider.jpg 1054w, /wp-content/uploads/2012/11/slider-300x138.jpg 300w, /wp-content/uploads/2012/11/slider-1024x472.jpg 1024w, /wp-content/uploads/2012/11/slider-600x276.jpg 600w" sizes="(max-width: 1054px) 100vw, 1054px" />](/wp-content/uploads/2012/11/slider.jpg)
-
-&nbsp;
-
-### Notes!
-
-On another note, I have to get a new binder because of all the SQL Database and ASP.NET notes. It seems like Gurpal and Bill are working together to destroy all the trees. I literally have over 200 pages of notes for both classes. It was really surprising this week when Gurpal only gave out 3 pages of notes for the Web Application Development. We are starting to learn ADO.NET, which is what I am more familiar with from my previous programming course so hopefully I can get some extra marks out of this section.
-
-Next week is going to be pretty tough, there is an assignment due for each class. Wish me luck!
+This seemed correct to me. I actually spent hours trying to google this problem, searching things like jQuery slider arrows not showing and jQuery navigation problem. After hours of googling, I finally found an example of the jQuery slider except the person used _../images/right-arrow.png_. I remember from my old Unix class that .. is the parent directory, and I realized that the css file was in a separate folder called css. This means that the reference _images/right-arrow.png_ refers to the currect directory where there is no images folder. So using _../images_ would correctly reference the navigation arrows, and of course fix the **whole problem.**

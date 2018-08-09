@@ -25,45 +25,28 @@ Not receiving parameters entered by a user on a webpage.
 
 Code:
 
-_String sz = req.getParameter(&#8220;size&#8221;);_
+```
+String sz = req.getParameter(“size”);
+String[] tops = req.getParameterValues(“top”);
+String ids = req.getParameter(“ID”);
+int id = Integer.parseInt(ids);
+String name = req.getParameter(“Name”);
+String address = req.getParameter(“Shipping Address”);
 
- _String[] tops = req.getParameterValues(&#8220;top&#8221;);_
-
- _String ids = req.getParameter(&#8220;ID&#8221;);_
-
- _int id = Integer.parseInt(ids);_
-
- _String name = req.getParameter(&#8220;Name&#8221;);_
-
- _String address = req.getParameter(&#8220;Shipping Address&#8221;);_
-
-_res.setContentType(&#8220;text/html&#8221;);_
-
- _out.println(&#8220;<html><head><title>Order Confirmation</title></head><body>&#8221;);_
-
- _out.println(&#8220;Your order for a &#8220;);_
-
- _out.println(sz + &#8221; inch with &#8220;);_
-
- _for(int i = 0; i < tops.length; i++)_
-
- _{_
-
- _out.println(tops[i] + &#8221; &#8220;);_
-
- _}_
-
- _out.println(&#8220;<br>is on the way!<br>&#8221;);_
-
- _out.println(&#8220;Shipping Address: &#8220;+ address);_
-
- _out.println(&#8220;<p></p>Click <a href=&#8217;orderform.html&#8217;>here</a> to order another&#8221;);_
-
- _out.println(&#8220;</body></html>&#8221;);_
-
- _out.close();_
-
-_}_
+res.setContentType(“text/html”);
+out.println(“<html><head><title>Order Confirmation</title></head><body>”);
+out.println(“Your order for a “);
+out.println(sz + ” inch with “);
+for(int i = 0; i < tops.length; i++) {
+  out.println(tops[i] + ” “);
+}
+out.println(“<br>is on the way!<br>”);
+out.println(“Shipping Address: “+ address);
+out.println(“<p></p>Click <a href=’orderform.html’>here</a> to order another”);
+out.println(“</body></html>”);
+out.close();
+}
+```
 
 <span style="text-decoration: underline;">Impact:</span>
 
@@ -73,42 +56,27 @@ _Unable to perform operations or calculations when using user-entered values._
 
 Have to put the parameters you want to receive inside form tags inside the java servlet page.
 
-_<form name=&#8221;form1&#8243; action=&#8221;order.html&#8221;>_
+```
+<form name=”form1″ action=”order.html”>
+<P>size:</p>
 
- _<P>size:</p>_
+<input type=”radio” name=”size” value=”9″ checked=”checked” />9
+<input type=”radio” name=”size” value=”12″ />12
 
-_<input type=&#8221;radio&#8221; name=&#8221;size&#8221; value=&#8221;9&#8243; checked=&#8221;checked&#8221; />9_
+<p> Topping</P>
+<select name=”top” multiple=”multiple”>
+<option value=”Mushroom”>Mushroom</option>
+<option value=”Green Pepper”>Green Pepper</option>
+<option value=”Tomato”>Tomato</option>
+</select>
+<p></p>
+<p>Customer ID:</p>
+<input type=”text” name=”ID” value=”” />
+<p>Customer Name:</p>
+<input type=”text” name=”Name” value=”” />
+<p>Customer Address:</p>
+<input type=”text” name=”Shipping Address” value=”” />
 
- _<input type=&#8221;radio&#8221; name=&#8221;size&#8221; value=&#8221;12&#8243; />12_
-
-_<p> Topping</P>_
-
- _<select name=&#8221;top&#8221; multiple=&#8221;multiple&#8221;>_
-
- _<option value=&#8221;Mushroom&#8221;>Mushroom</option>_
-
- _<option value=&#8221;Green Pepper&#8221;>Green Pepper</option>_
-
- _<option value=&#8221;Tomato&#8221;>Tomato</option>_
-
- _</select>_
-
- _<p></p>_
-
- _<p>Customer ID:</p>_
-
- _<input type=&#8221;text&#8221; name=&#8221;ID&#8221; value=&#8221;&#8221; />_
-
- _<p>Customer Name:</p>_
-
- _<input type=&#8221;text&#8221; name=&#8221;Name&#8221; value=&#8221;&#8221; />_
-
- _<p>Customer Address:</p>_
-
- _<input type=&#8221;text&#8221; name=&#8221;Shipping Address&#8221; value=&#8221;&#8221; />_
-
- _<p></p><input type=&#8221;submit&#8221; value=&#8221;Submit Order&#8221; name=&#8221;Submit&#8221; />_
-
- _</form>_
-
-&nbsp;
+<p></p><input type=”submit” value=”Submit Order” name=”Submit” />
+</form>
+```

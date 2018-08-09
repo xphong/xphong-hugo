@@ -48,28 +48,18 @@ The method that calculates the monthly mortgage payments will not work because t
 
 Manually create the remote class and implement the method inside of the class.
 
-_import javax.ejb.Remote;_
+```
+import javax.ejb.Remote;
 
-_/**_
+@Remote
+public interface SayHelloRemote {
+Double HelloMethod(double amount, double rate, int year, int month);
+}
 
- _*_
+Then call the method inside of the java server page.
 
- _* @author hnhp0025_
+Context ctx = new InitialContext();
+SayHelloRemote sb = (SayHelloRemote) ctx.lookup(SayHelloRemote.class.getName());
 
- _*/_
-
-_@Remote_
-
-_public interface SayHelloRemote {_
-
- _Double HelloMethod(double amount, double rate, int year, int month);_
-
-_}_
-
-_Then call the method inside of the java server page._
-
-_Context ctx = new InitialContext();_
-
- _SayHelloRemote sb = (SayHelloRemote) ctx.lookup(SayHelloRemote.class.getName());_
-
-_Double payment = sb.HelloMethod(amount, rate, term, monthterm);_
+Double payment = sb.HelloMethod(amount, rate, term, monthterm);
+```

@@ -21,6 +21,7 @@ tags:
   - vuejs
   - vuex
 ---
+![](/wp-content/uploads/2017/11/Screen-Shot-2017-11-11-at-3.33.59-PM.png)
 # Getting Started with Vue, Vuex, and API calls
 
 _Originally published at <https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc>_

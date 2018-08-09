@@ -19,5 +19,3 @@ tags:
 The main purpose of this website was to create my programming portfolio and get it online.
 
 Having a portfolio is extremely important when you are a computer programmer because it is a good way to showcase and explain your work. In addition, having a portfolio ready can put you ahead of many other candidates when looking for a job.
-
-In the summer I had a job interview for a web developer position and I did not have a portfolio. So when the interviewer asked me about my previous projects I was just like yeah&#8230; I worked on an ASP.net project that included database functionality. Now if I had my portfolio I would be able to show the interviewer the things I did specifically and also provide visual images.
