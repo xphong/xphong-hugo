@@ -1,22 +1,31 @@
 name: Projects
 source:
   - icon: fa fa-github
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
+    name: Marvel App
+    description: Full Stack - React/Redux + Node/MongoDB + Marvel API.
+    url: https://github.com/xphong/marvel-app
 
   - icon: fa fa-github
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
+    name: Simple React Redux Starter
+    description: Simple React Redux Starter/Boilerplate. With ES6, Webpack, Router, Dev Tools, Axios.
+    url: https://github.com/xphong/simple-react-redux-starter
 
-  - icon: fa fa-github
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
+  - icon: fa fa-pencil
+    name: Why End-to-End Testing is Important for Your Team
+    description: Blog post on how our team implemented end to end testing in 4 easy steps.
+    url: https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504
 
-  - icon: fa fa-globe
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
+  - icon: fa fa-pencil
+    name: Marvel API + Vuepack (Vue + Vuex)
+    description: Blog post on getting started with Vue, Vuex, and API calls.
+    url: https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
 
-  - icon: fa fa-globe
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-
-  - icon: fa fa-cog
+  - icon: fa fa-list-ul
+    name: Project 6
     description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
+    url: https://github.com/xphong
 
-  - icon: fa fa-cog
+  - icon: fa fa-list-ul
+    name: Project 7
     description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
+    url: https://github.com/xphong
