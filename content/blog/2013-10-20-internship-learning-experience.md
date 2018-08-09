@@ -31,13 +31,13 @@ I found an intern position at a company called Dashboard on Humber College&#8217
 <div class="flexslider" data-autoplay="true" data-interval="3000" data-animation="slide" data-direction="horizontal" data-animationSpeed="600"  data-pauseOnHover="true">
   <ul class="slides">
     <li>
-      <img alt="" src="http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-imac.png" />
+      <img alt="" src="/wp-content/uploads/2014/01/santa-imac.png" />
     </li>
     <li>
-      <img alt="" src="http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-ipad.png" />
+      <img alt="" src="/wp-content/uploads/2014/01/santa-ipad.png" />
     </li>
     <li>
-      <img alt="" src="http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-iphone.png" />
+      <img alt="" src="/wp-content/uploads/2014/01/santa-iphone.png" />
     </li>
   </ul>
 </div>
@@ -75,7 +75,7 @@ Another thing I learned is that note taking is extremely important and useful. D
 
 Your skills should never be &#8216;good enough&#8217;. Internship is pretty cool, you will learn and experience lots.
 
-<a title="The Santa Claus Parade" href="http://www.thesantaclausparade.com" target="_blank"><img class="alignnone size-full wp-image-745" src="http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-responsive.png" alt="santa-responsive" width="753" height="447" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-responsive.png 753w, http://www.phonghuynh.ca/wp-content/uploads/2014/01/santa-responsive-300x178.png 300w" sizes="(max-width: 753px) 100vw, 753px" /></a>
+<a title="The Santa Claus Parade" href="http://www.thesantaclausparade.com" target="_blank"><img class="alignnone size-full wp-image-745" src="/wp-content/uploads/2014/01/santa-responsive.png" alt="santa-responsive" width="753" height="447" srcset="/wp-content/uploads/2014/01/santa-responsive.png 753w, /wp-content/uploads/2014/01/santa-responsive-300x178.png 300w" sizes="(max-width: 753px) 100vw, 753px" /></a>
 
 ### Check out the finished website!
 

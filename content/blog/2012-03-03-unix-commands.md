@@ -19,7 +19,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://www.phonghuynh.ca/wp-content/uploads/2012/03/Tux.svg_.png"><img class="size-medium wp-image-419 aligncenter" title="Unixp" src="http://www.phonghuynh.ca/wp-content/uploads/2012/03/Tux.svg_-258x300.png" alt="Unixp" width="258" height="300" srcset="http://www.phonghuynh.ca/wp-content/uploads/2012/03/Tux.svg_-258x300.png 258w, http://www.phonghuynh.ca/wp-content/uploads/2012/03/Tux.svg_.png 500w" sizes="(max-width: 258px) 100vw, 258px" /></a>
+  <a href="/wp-content/uploads/2012/03/Tux.svg_.png"><img class="size-medium wp-image-419 aligncenter" title="Unixp" src="/wp-content/uploads/2012/03/Tux.svg_-258x300.png" alt="Unixp" width="258" height="300" srcset="/wp-content/uploads/2012/03/Tux.svg_-258x300.png 258w, /wp-content/uploads/2012/03/Tux.svg_.png 500w" sizes="(max-width: 258px) 100vw, 258px" /></a>
 </div>
 
 <div>

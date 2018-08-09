@@ -15,7 +15,7 @@ tags:
   - blog
   - website
 ---
-[<img class="alignnone size-full wp-image-273" title="Phong Huynh Logo" src="http://www.phonghuynh.ca/wp-content/uploads/2012/09/nmkz85.png" alt="Phong Huynh Logo" width="400" height="92" srcset="http://www.phonghuynh.ca/wp-content/uploads/2012/09/nmkz85.png 400w, http://www.phonghuynh.ca/wp-content/uploads/2012/09/nmkz85-300x69.png 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://www.phonghuynh.ca/wp-content/uploads/2012/09/nmkz85.png)
+[<img class="alignnone size-full wp-image-273" title="Phong Huynh Logo" src="/wp-content/uploads/2012/09/nmkz85.png" alt="Phong Huynh Logo" width="400" height="92" srcset="/wp-content/uploads/2012/09/nmkz85.png 400w, /wp-content/uploads/2012/09/nmkz85-300x69.png 300w" sizes="(max-width: 400px) 100vw, 400px" />](/wp-content/uploads/2012/09/nmkz85.png)
 
 The website is now uploaded after struggling with a few problems inside the database.
 

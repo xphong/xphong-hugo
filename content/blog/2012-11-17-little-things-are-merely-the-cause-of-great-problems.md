@@ -26,7 +26,7 @@ This seemed correct to me. I actually spent hours trying to google this problem
 
 Anyway, here&#8217;s an image of my fully functional slider 🙂
 
-[<img class="alignnone size-full wp-image-393" title="Slider" alt="Slider" src="http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider.jpg" width="1054" height="486" srcset="http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider.jpg 1054w, http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider-300x138.jpg 300w, http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider-1024x472.jpg 1024w, http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider-600x276.jpg 600w" sizes="(max-width: 1054px) 100vw, 1054px" />](http://www.phonghuynh.ca/wp-content/uploads/2012/11/slider.jpg)
+[<img class="alignnone size-full wp-image-393" title="Slider" alt="Slider" src="/wp-content/uploads/2012/11/slider.jpg" width="1054" height="486" srcset="/wp-content/uploads/2012/11/slider.jpg 1054w, /wp-content/uploads/2012/11/slider-300x138.jpg 300w, /wp-content/uploads/2012/11/slider-1024x472.jpg 1024w, /wp-content/uploads/2012/11/slider-600x276.jpg 600w" sizes="(max-width: 1054px) 100vw, 1054px" />](/wp-content/uploads/2012/11/slider.jpg)
 
 &nbsp;
 

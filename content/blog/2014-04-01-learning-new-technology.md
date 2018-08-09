@@ -33,7 +33,7 @@ In this post, I am going to go through the process of how I learned a few of the
   * [Grunt](#Grunt)
   * [Mustache/Handlebars](#Mustache)
 
-<a id="Zurb" title="Zurb Foundation" href="http://foundation.zurb.com/" target="_blank"><img class="alignnone wp-image-1161 size-full" src="http://www.phonghuynh.ca/wp-content/uploads/2014/04/foundationsasscompass.png" alt="foundationsasscompass" width="650" height="231" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/04/foundationsasscompass.png 650w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/foundationsasscompass-300x106.png 300w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/foundationsasscompass-150x53.png 150w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/foundationsasscompass-400x142.png 400w" sizes="(max-width: 650px) 100vw, 650px" /></a>
+<a id="Zurb" title="Zurb Foundation" href="http://foundation.zurb.com/" target="_blank"><img class="alignnone wp-image-1161 size-full" src="/wp-content/uploads/2014/04/foundationsasscompass.png" alt="foundationsasscompass" width="650" height="231" srcset="/wp-content/uploads/2014/04/foundationsasscompass.png 650w, /wp-content/uploads/2014/04/foundationsasscompass-300x106.png 300w, /wp-content/uploads/2014/04/foundationsasscompass-150x53.png 150w, /wp-content/uploads/2014/04/foundationsasscompass-400x142.png 400w" sizes="(max-width: 650px) 100vw, 650px" /></a>
 
 ## Zurb Foundation with Sass & Compass
 
@@ -41,7 +41,7 @@ I have already went through these technologies in an older blog post (<a title="
 
 I got to learn Foundation with Sass and Compass through The Santa Claus Parade website, which was an awesome project that I am glad to have worked on. I was forced to learn these technologies because the team was using it as their main stack, but it was great because there is a sense of urgency that further motivates you to learn.
 
-<a id="Grunt" title="Grunt" href="http://gruntjs.com/" target="_blank"><img class="alignnone wp-image-1166 size-full" src="http://www.phonghuynh.ca/wp-content/uploads/2014/04/gruntlogo.png" alt="gruntlogo" width="550" height="200" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/04/gruntlogo.png 550w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/gruntlogo-300x109.png 300w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/gruntlogo-150x54.png 150w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/gruntlogo-400x145.png 400w" sizes="(max-width: 550px) 100vw, 550px" /></a>
+<a id="Grunt" title="Grunt" href="http://gruntjs.com/" target="_blank"><img class="alignnone wp-image-1166 size-full" src="/wp-content/uploads/2014/04/gruntlogo.png" alt="gruntlogo" width="550" height="200" srcset="/wp-content/uploads/2014/04/gruntlogo.png 550w, /wp-content/uploads/2014/04/gruntlogo-300x109.png 300w, /wp-content/uploads/2014/04/gruntlogo-150x54.png 150w, /wp-content/uploads/2014/04/gruntlogo-400x145.png 400w" sizes="(max-width: 550px) 100vw, 550px" /></a>
 
 ## Grunt, NPM, and Bower
 
@@ -70,7 +70,7 @@ The most satisfying experience was when I ran into a previous co-worker at the F
   <a target="_blank" class="button big blue  button-icon" href="http://apps.dashboard.ca/ing/rsptfsa_infographic/"><i class="fa fa-eye"></i>VIEW WEBSITE</a><a target="_blank" class="button big green  button-icon" href="http://www.phonghuynh.ca/portfolio/ing-direct-interactive-infographic/"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
 </div>
 
-[<img class="alignnone size-full wp-image-1188" src="http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars.png" alt="handlebars" width="705" height="205" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars.png 705w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars-300x87.png 300w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars-150x43.png 150w, http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars-400x116.png 400w" sizes="(max-width: 705px) 100vw, 705px" />](http://www.phonghuynh.ca/wp-content/uploads/2014/04/handlebars.png){#Mustache}
+[<img class="alignnone size-full wp-image-1188" src="/wp-content/uploads/2014/04/handlebars.png" alt="handlebars" width="705" height="205" srcset="/wp-content/uploads/2014/04/handlebars.png 705w, /wp-content/uploads/2014/04/handlebars-300x87.png 300w, /wp-content/uploads/2014/04/handlebars-150x43.png 150w, /wp-content/uploads/2014/04/handlebars-400x116.png 400w" sizes="(max-width: 705px) 100vw, 705px" />](/wp-content/uploads/2014/04/handlebars.png){#Mustache}
 
 ## Mustache, Handlebars.js
 

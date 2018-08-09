@@ -16,7 +16,7 @@ tags:
   - search
   - seo
 ---
-[<img class="size-full wp-image-406 aligncenter" title="Seo" src="http://www.phonghuynh.ca/wp-content/uploads/2012/09/Seo-blocks.gif" alt="Seo" width="523" height="403" srcset="http://www.phonghuynh.ca/wp-content/uploads/2012/09/Seo-blocks.gif 523w, http://www.phonghuynh.ca/wp-content/uploads/2012/09/Seo-blocks-300x231.gif 300w" sizes="(max-width: 523px) 100vw, 523px" />](http://www.phonghuynh.ca/wp-content/uploads/2012/09/Seo-blocks.gif)
+[<img class="size-full wp-image-406 aligncenter" title="Seo" src="/wp-content/uploads/2012/09/Seo-blocks.gif" alt="Seo" width="523" height="403" srcset="/wp-content/uploads/2012/09/Seo-blocks.gif 523w, /wp-content/uploads/2012/09/Seo-blocks-300x231.gif 300w" sizes="(max-width: 523px) 100vw, 523px" />](/wp-content/uploads/2012/09/Seo-blocks.gif)
 
 After finally getting my website uploaded I realized that it was no where to be found on Google search. Achieving a high rank on a search engine like Google is very important because that is how people find you. Search engines are also known as the best source for traffic because everyone uses it.
 

@@ -20,7 +20,7 @@ tags:
   - web development
   - weekly blog
 ---
-## [<img class="aligncenter" title="Password Icon" src="http://www.phonghuynh.ca/wp-content/uploads/2012/12/Password.svg_.png" alt="Password Icon" width="200" height="200" />](http://www.phonghuynh.ca/wp-content/uploads/2012/12/Password.svg_.png)
+## [<img class="aligncenter" title="Password Icon" src="/wp-content/uploads/2012/12/Password.svg_.png" alt="Password Icon" width="200" height="200" />](/wp-content/uploads/2012/12/Password.svg_.png)
 
 I have been meaning to talk about security and hackers for while, but I was waiting for a time when I have nothing to talk about, like today! I recently have had some hack attempts on this website. My first thought was people actually visit my website? My second thought was time to ban that asshole. It was a good thing that I installed a security plugin because it shows all the incorrect login attempts on the back-end on this website. Additionally, it shows their IP address so I was able to permanently ban the person making these login attempts since the default ban only bans the person for about 15 minutes. The hack attempt was pretty stupid, they tried the generic logins like admin &#8211; admin, admin &#8211; password so I was not too worried, but it did make me paranoid enough to change my password and username.
 
@@ -33,7 +33,7 @@ Example: /wp-content/themes/wp-eden/admin/uploadify/uploadify.php
 At first I obviously had no idea what this was, so I searched it up. Uploadify is a file that allows people to upload multiple files to your website. It is used a lot, especially with wordpress, but apparently there is an exploit in the code that lets hackers upload scripts to your website. From there they can use the scripts to control your website. To not get hacked by this exploit, there is a list of plugins and themes that use uploadify, so just stay away from those plugins and themes.
 
 <p style="text-align: center;">
-  <a href="http://www.phonghuynh.ca/wp-content/uploads/2012/12/200px-Wordpress.svg_.png"><img class="aligncenter" title="Wordpress Logo" src="http://www.phonghuynh.ca/wp-content/uploads/2012/12/200px-Wordpress.svg_.png" alt="Wordpress Logo" width="200" height="200" /></a>
+  <a href="/wp-content/uploads/2012/12/200px-Wordpress.svg_.png"><img class="aligncenter" title="Wordpress Logo" src="/wp-content/uploads/2012/12/200px-Wordpress.svg_.png" alt="Wordpress Logo" width="200" height="200" /></a>
 </p>
 
 ### Presentation

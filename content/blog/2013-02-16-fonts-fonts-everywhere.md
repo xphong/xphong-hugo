@@ -23,13 +23,13 @@ In my PHP group project I have been given the role of being the designer for the
 
 Here is the first version of the interface:
 
-[<img class="alignnone size-full wp-image-470" src="http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfaceold.jpg" alt="Old PHP Interface " width="500" height="416" srcset="http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfaceold.jpg 500w, http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfaceold-300x249.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfaceold.jpg)
+[<img class="alignnone size-full wp-image-470" src="/wp-content/uploads/2013/02/phpinterfaceold.jpg" alt="Old PHP Interface " width="500" height="416" srcset="/wp-content/uploads/2013/02/phpinterfaceold.jpg 500w, /wp-content/uploads/2013/02/phpinterfaceold-300x249.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/wp-content/uploads/2013/02/phpinterfaceold.jpg)
 
 I have to admit that I half-assed it because of a due date, but as you can see it is using the font Arial.
 
 Now here is the redesign using web fonts (Actual link &#8211; <a title="http://shopright.phonghuynh.ca" href="http://shopright.phonghuynh.ca" target="_blank">http://shopright.phonghuynh.ca</a>):
 
-[<img class="alignnone size-full wp-image-471" src="http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfacenew.jpg" alt="New PHP Interface" width="500" height="396" srcset="http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfacenew.jpg 500w, http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfacenew-300x237.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.phonghuynh.ca/wp-content/uploads/2013/02/phpinterfacenew.jpg)
+[<img class="alignnone size-full wp-image-471" src="/wp-content/uploads/2013/02/phpinterfacenew.jpg" alt="New PHP Interface" width="500" height="396" srcset="/wp-content/uploads/2013/02/phpinterfacenew.jpg 500w, /wp-content/uploads/2013/02/phpinterfacenew-300x237.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](/wp-content/uploads/2013/02/phpinterfacenew.jpg)
 
 &nbsp;
 

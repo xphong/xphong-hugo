@@ -15,7 +15,7 @@ tags:
   - web development
   - weekly blog
 ---
-[<img class="alignnone size-full wp-image-334" title="RSS Feed Icon" src="http://www.phonghuynh.ca/wp-content/uploads/2012/11/feed_icons15_resize.png" alt="RSS Feed Icon" width="150" height="150" />](http://www.phonghuynh.ca/wp-content/uploads/2012/11/feed_icons15_resize.png)
+[<img class="alignnone size-full wp-image-334" title="RSS Feed Icon" src="/wp-content/uploads/2012/11/feed_icons15_resize.png" alt="RSS Feed Icon" width="150" height="150" />](/wp-content/uploads/2012/11/feed_icons15_resize.png)
 
 So there is a new assignment for my project management class that requires me to write a weekly blog about my experiences in the Web Development program. Good news is that I have had this website up since September. Bad news is writing a weekly blog, haha.
 

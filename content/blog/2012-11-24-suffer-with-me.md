@@ -17,7 +17,7 @@ tags:
   - weekly blog
   - xampp
 ---
-[<img class="size-full wp-image-396 aligncenter" title="Black Ops 2 Logo" src="http://www.phonghuynh.ca/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png" alt="Black Ops 2 Logo" width="500" height="138" srcset="http://www.phonghuynh.ca/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png 500w, http://www.phonghuynh.ca/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_-300x82.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.phonghuynh.ca/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png)
+[<img class="size-full wp-image-396 aligncenter" title="Black Ops 2 Logo" src="/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png" alt="Black Ops 2 Logo" width="500" height="138" srcset="/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png 500w, /wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_-300x82.png 300w" sizes="(max-width: 500px) 100vw, 500px" />](/wp-content/uploads/2012/11/500px-BlackOps2Logo.svg_.png)
 
 Depressing title, I know. It is actually a line from Call of Duty: Black Ops 2. I just recently finished the game, the story was pretty good by the way, and that line just stuck with me.
 

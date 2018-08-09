@@ -20,7 +20,7 @@ tags:
 
 <div>
   <p>
-     <a href="http://www.phonghuynh.ca/wp-content/uploads/2012/03/Paldo-logo.png"><img class="size-full wp-image-417 aligncenter" title="Unix" src="http://www.phonghuynh.ca/wp-content/uploads/2012/03/Paldo-logo.png" alt="Unix" width="150" height="116" /></a>
+     <a href="/wp-content/uploads/2012/03/Paldo-logo.png"><img class="size-full wp-image-417 aligncenter" title="Unix" src="/wp-content/uploads/2012/03/Paldo-logo.png" alt="Unix" width="150" height="116" /></a>
   </p>
 </div>
 

@@ -15,7 +15,7 @@ tags:
   - web development
   - weekly blog
 ---
-[<img class="size-full wp-image-421 aligncenter" title="SQL" src="http://www.phonghuynh.ca/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png" alt="SQL" width="128" height="128" />](http://www.phonghuynh.ca/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png)
+[<img class="size-full wp-image-421 aligncenter" title="SQL" src="/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png" alt="SQL" width="128" height="128" />](/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png)
 
 This past week was a pretty tough week, I had an Ultimate Marvel vs Capcom 3 (It’s an Arcade Fighting game) Tournament that I wanted to go on Thursday, November 8<sup>th</sup>. Problem was that I had a Web Application Development and a Web Programming assignment due on this date. I think it was Tuesday when I spent all day trying to finish these two assignments. The web programming assignment was really easy because it was basically intro to jQuery. However, I had problems with the Web Application Development assignment.
 

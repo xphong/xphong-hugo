@@ -43,7 +43,7 @@ I then made a big decision to go back to school for a postgraduate certificate i
 
 College was an interesting time, the most important skill you can get from school is self learning. The ability to teach yourself anything and to develop on your own is extremely important as technology is always growing. Another thing you should do is keep in touch with all your classmates and professors because networking is the best way to find a job. A good referral will always beat a random resume.
 
-<img class="alignnone size-full wp-image-1255" src="http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043.jpg" alt="transition-search" width="800" height="531" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043.jpg 800w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-300x199.jpg 300w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-150x99.jpg 150w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-720x477.jpg 720w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-400x265.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone size-full wp-image-1255" src="/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043.jpg" alt="transition-search" width="800" height="531" srcset="/wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043.jpg 800w, /wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-300x199.jpg 300w, /wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-150x99.jpg 150w, /wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-720x477.jpg 720w, /wp-content/uploads/2014/07/mtNrf7oxS4uSxTzMBWfQ_DSC_0043-400x265.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
 
 ## Portfolio and Job Searching {#jobsearch}
 
@@ -71,7 +71,7 @@ When you apply, tailor your cover letter specifically to the job posting. I like
 
 The community of web developers is open source. A lot of people share their code and resources, meaning that you should too. A good website to contribute to open source is <a href="https://github.com/" target="_blank">GitHub</a>. You should also try to ask meaningful questions and answer other people&#8217;s questions on <a href="http://stackoverflow.com" target="_blank">StackOverflow</a>. Having an online presence is important and some employers do look for it.
 
-<img class="alignnone size-full wp-image-1248" src="http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1.jpg" alt="transition-interview" width="800" height="533" srcset="http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1.jpg 800w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1-300x199.jpg 300w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1-150x99.jpg 150w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1-720x479.jpg 720w, http://www.phonghuynh.ca/wp-content/uploads/2014/07/19H1-400x266.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone size-full wp-image-1248" src="/wp-content/uploads/2014/07/19H1.jpg" alt="transition-interview" width="800" height="533" srcset="/wp-content/uploads/2014/07/19H1.jpg 800w, /wp-content/uploads/2014/07/19H1-300x199.jpg 300w, /wp-content/uploads/2014/07/19H1-150x99.jpg 150w, /wp-content/uploads/2014/07/19H1-720x479.jpg 720w, /wp-content/uploads/2014/07/19H1-400x266.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
 
 ## Interview Process {#interview}
 
