@@ -21,7 +21,7 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "xphong"
-  Email         = "info@phonghuynh.ca"
+  Email         = "xphong@gmail.com"
   Twitter       = "xphong"
   LinkedIn      = "phonghuynh"
   Stackoverflow = "users/1664687/xphong"
