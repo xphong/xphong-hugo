@@ -16,7 +16,7 @@ theme = "hugo-sustain"
   description = "Software Developer from Toronto, Canada. Passionate about clean code, minimal design, and learning new things."
 
   # Custom assets can be linked with their paths relative to static/
-  custom_css = ["main.css"]
+  custom_css = []
   custom_js  = []
 
 [params.social]
