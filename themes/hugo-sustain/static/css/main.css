@@ -7,6 +7,10 @@ html, body {
   border-top: 3px solid #3ea5ce;
 }
 
+figcaption {
+  font-size: 12px;
+}
+
 /* Wrapper for page content to push down footer */
 #wrap {
   padding-bottom: 50px;
@@ -123,6 +127,7 @@ html, body {
 }
 .panel{
   border-style: none;
+  box-shadow: none;
 }
 .panel-body {
   padding-top: -10px;

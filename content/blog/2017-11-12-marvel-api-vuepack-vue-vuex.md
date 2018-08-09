@@ -21,11 +21,11 @@ tags:
   - vuejs
   - vuex
 ---
+# Getting Started with Vue, Vuex, and API calls
+
+_Originally published at <https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc>_
+
 <section class="section section--body">
-
-## Getting Started with Vue, Vuex, and API calls {.section-divider}
-
-_Originally published at <https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc>._
 
 <div class="section-content">
   <div class="section-inner sectionLayout--insetColumn">
@@ -150,10 +150,10 @@ $ npm install</pre>
 
       <div class="iframeContainer">
       </div>
-    </div><figcaption class="imageCaption">build/index.html</figcaption></figure>
+    </div></figure>
 
     <p class="graf graf--p">
-      Inside <code class="markup--code markup--p-code">build/index.html</code>, add <code class="markup--code markup--p-code u-paddingRight0 u-marginRight0">&lt;link rel=”stylesheet” href=”&lt;a class="markup--anchor markup--p-anchor" href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css" target="_blank" rel="nofollow noopener noreferrer" data-href="https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css">https://cdn.jsdelivr.net/semantic-ui/2.2.6/semantic.min.css&lt;/a>"&gt;</code>
+      Inside <code class="markup--code markup--p-code">build/index.html</code>
     </p>
 
     <h4 class="graf graf--h4">
@@ -170,7 +170,7 @@ $ npm install</pre>
       Open up your browser to <code class="markup--code markup--p-code">localhost:4000</code>. You should now see the default counter that is built in with the application.
     </p><figure class="graf graf--figure">
 
-    <img class="graf-image" src="https://cdn-images-1.medium.com/max/1600/1*Srp7HPaOxH1JF1c9J07Qxw.png" data-image-id="1*Srp7HPaOxH1JF1c9J07Qxw.png" data-width="1568" data-height="988" /><figcaption class="imageCaption">Default VuePack Counter Application</figcaption></figure>
+    <img class="graf-image" src="https://cdn-images-1.medium.com/max/1600/1*Srp7HPaOxH1JF1c9J07Qxw.png" data-image-id="1*Srp7HPaOxH1JF1c9J07Qxw.png" data-width="1568" data-height="988" /></figure>
 
     <p class="graf graf--p">
       Inside <code class="markup--code markup--p-code">store/index.js</code> we will be removing the default counter store code and setting up our own store for Marvel characters.

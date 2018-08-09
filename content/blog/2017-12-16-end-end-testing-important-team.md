@@ -15,7 +15,7 @@ tags:
   - testing
   - learning
 ---
-## How our team did it in 4 easy steps {#7add.graf.graf--h4.graf-after--h3.graf--subtitle}
+# How our team did it in 4 easy steps {#7add.graf.graf--h4.graf-after--h3.graf--subtitle}
 
 _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504>_
 
