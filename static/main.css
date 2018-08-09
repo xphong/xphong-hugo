@@ -183,6 +183,9 @@ html, body {
   line-height: 30px;
   font-size: 18px;
 }
+.blogpost img {
+  max-width: 740px;
+}
 
 /* Footer  */
 .footer {
