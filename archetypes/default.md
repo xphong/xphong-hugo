@@ -6,8 +6,7 @@ author: ""
 layout: ""
 guid: ""
 permalink: ""
-dsq_thread_id:
-  - ""
-categories:
-  - ""
+dsq_thread_id: ""
+categories: ""
+tags: ""
 ---

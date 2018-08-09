@@ -2,12 +2,12 @@ name: Projects
 source:
   - icon: fa fa-github
     name: Marvel App
-    description: Full Stack - React/Redux + Node/MongoDB + Marvel API. https://marvel-app9000.herokuapp.com/
+    description: Full Stack - React/Redux + Node/MongoDB + Marvel API.
     url: https://github.com/xphong/marvel-app
 
   - icon: fa fa-github
     name: Simple React Redux Starter
-    description: Simple React Redux Starter/Boilerplate. With ES6, Webpack, Router, Dev Tools, Axios. https://xphong.github.io/simple-react-redux-starter
+    description: Simple React Redux Starter/Boilerplate. With ES6, Webpack, Router, Dev Tools, Axios.
     url: https://github.com/xphong/simple-react-redux-starter
 
   - icon: fa fa-pencil
@@ -17,7 +17,7 @@ source:
 
   - icon: fa fa-pencil
     name: Marvel API + Vuepack (Vue + Vuex)
-    description: Blog post on getting started with Vue, Vuex, and API calls
+    description: Blog post on getting started with Vue, Vuex, and API calls.
     url: https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
 
   - icon: fa fa-list-ul
