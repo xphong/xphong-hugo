@@ -4,7 +4,7 @@ title: Why End-to-End Testing is Important for Your Team
 date: 2017-12-16T09:20:12+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1593
+
 permalink: /end-end-testing-important-team/
 dsq_thread_id:
   - "6352786865"
@@ -102,8 +102,8 @@ _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testin
   <div class="aspectRatioPlaceholder-fill">
   </div>
 
-  <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*3NAuvsj75Ir0UNSvJf_8pg.gif" data-width="300" data-height="300" data-scroll="native">
-    <canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="75"></canvas><img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://cdn-images-1.medium.com/max/1600/1*3NAuvsj75Ir0UNSvJf_8pg.gif" data-src="https://cdn-images-1.medium.com/max/1600/1*3NAuvsj75Ir0UNSvJf_8pg.gif" /><a class="markup--anchor markup--figure-anchor" href="https://giphy.com/gifs/fail-technology-i5RWkVZzVScmY" target="_blank" rel="noopener noreferrer" data-href="https://giphy.com/gifs/fail-technology-i5RWkVZzVScmY">Source</a>
+  <div align="center" class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*3NAuvsj75Ir0UNSvJf_8pg.gif" data-width="300" data-height="300" data-scroll="native">
+    <img class="progressiveMedia-image js-progressiveMedia-image aligncenter" src="https://cdn-images-1.medium.com/max/1600/1*3NAuvsj75Ir0UNSvJf_8pg.gif" data-src="https://cdn-images-1.medium.com/max/1600/1*3NAuvsj75Ir0UNSvJf_8pg.gif" />
   </div>
 </div></figure>
 
@@ -129,8 +129,6 @@ _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testin
     <canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="40"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/1600/1*YdygJYCSwnXDMbMv7v5bjg.png" data-src="https://cdn-images-1.medium.com/max/1600/1*YdygJYCSwnXDMbMv7v5bjg.png" />
   </div>
 </div><figcaption class="imageCaption">
-
-<a class="markup--anchor markup--figure-anchor" href="https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c" target="_blank" rel="noopener noreferrer" data-href="https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c">Test Automation Pyramid</a></figcaption></figure>
 
 <p id="f860" class="graf graf--p graf-after--figure">
   This is a testing pyramid from <a class="markup--anchor markup--p-anchor" href="https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c" target="_blank" rel="noopener noreferrer" data-href="https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c">Kent C. Dodd’s blog</a> which is a combination of the pyramids from <a class="markup--anchor markup--p-anchor" href="https://martinfowler.com/bliki/TestPyramid.html" target="_blank" rel="noopener noreferrer" data-href="https://martinfowler.com/bliki/TestPyramid.html">Martin Fowler’s blog</a> and the <a class="markup--anchor markup--p-anchor" href="https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html" target="_blank" rel="noopener noreferrer" data-href="https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html">Google Testing Blog</a>.
@@ -177,9 +175,7 @@ _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testin
   <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*uOUpO4KsborihaHt62roHA.gif" data-width="939" data-height="590" data-action="zoom" data-action-value="1*uOUpO4KsborihaHt62roHA.gif" data-scroll="native">
     <canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="46"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/1600/1*uOUpO4KsborihaHt62roHA.gif" data-src="https://cdn-images-1.medium.com/max/1600/1*uOUpO4KsborihaHt62roHA.gif" />
   </div>
-</div><figcaption class="imageCaption">Running a
-
-<a class="markup--anchor markup--figure-anchor" href="https://github.com/DevExpress/testcafe" target="_blank" rel="noopener noreferrer" data-href="https://github.com/DevExpress/testcafe"> sample test</a> in Safari</figcaption></figure>
+</div></figure>
 
 <p id="b5ad" class="graf graf--p graf-after--figure">
   TestCafe uses async/await and ES2017 code for the tests files. It also has an implicit auto-waits mechanism which means TestCafe automatically waits for XHR requests and page loads. So you don’t need to take care of it in your code.
@@ -218,7 +214,7 @@ _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testin
   <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*I6DfCH4nXdWvkdsFIcd2fA.png" data-width="1502" data-height="1006" data-action="zoom" data-action-value="1*I6DfCH4nXdWvkdsFIcd2fA.png" data-scroll="native">
     <canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="50"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/1600/1*I6DfCH4nXdWvkdsFIcd2fA.png" data-src="https://cdn-images-1.medium.com/max/1600/1*I6DfCH4nXdWvkdsFIcd2fA.png" />
   </div>
-</div><figcaption class="imageCaption">Hubba’s Login</figcaption></figure>
+</div></figure>
 
 <p id="9f9d" class="graf graf--p graf-after--figure">
   We decided on writing test cases related to those regression tests. For Hubba, this included basic — but important — functionality like user sign up/login, and creating a product.
@@ -257,7 +253,7 @@ _Originally published at <https://medium.freecodecamp.org/why-end-to-end-testin
   <div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-image-id="1*IGPnsCHPZIMvMT9XO1xdaw.png" data-width="2352" data-height="794" data-action="zoom" data-action-value="1*IGPnsCHPZIMvMT9XO1xdaw.png" data-scroll="native">
     <canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" width="75" height="25"></canvas><img class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/1600/1*IGPnsCHPZIMvMT9XO1xdaw.png" data-src="https://cdn-images-1.medium.com/max/1600/1*IGPnsCHPZIMvMT9XO1xdaw.png" />
   </div>
-</div><figcaption class="imageCaption">Jenkins</figcaption></figure>
+</div></figure>
 
 <p id="0433" class="graf graf--p graf-after--figure">
   We decided on running our E2E tests on a periodically — nightly/weekly — basis versus executing on every code change as part of the CD pipeline. The reason for this is because E2E tests are slow to run.

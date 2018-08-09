@@ -4,7 +4,7 @@ title: SEO and Google Search
 date: 2012-09-15T14:03:43+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=264
+
 permalink: /seo-and-google-search/
 dsq_thread_id:
   - "3327972463"

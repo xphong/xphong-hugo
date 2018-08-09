@@ -4,7 +4,7 @@ title: 'A Web Developer&#8217;s Transition from School to the Workplace'
 date: 2014-07-22T08:17:20+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1222
+
 permalink: /transitioning-school-workplace/
 dsq_thread_id:
   - "2900224509"

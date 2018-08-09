@@ -4,7 +4,7 @@ title: Learning a New Technology
 date: 2014-04-01T08:27:06+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1149
+
 permalink: /learning-new-technology/
 dsq_thread_id:
   - "2900223195"

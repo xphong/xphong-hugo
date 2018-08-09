@@ -4,7 +4,7 @@ title: Grouping Layers
 date: 2012-10-08T15:47:32+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=290
+
 permalink: /grouping-layers/
 dsq_thread_id:
   - "4281518697"

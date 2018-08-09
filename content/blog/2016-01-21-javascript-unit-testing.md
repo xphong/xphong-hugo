@@ -4,7 +4,7 @@ title: JavaScript Unit Testing and Code Coverage
 date: 2016-01-21T10:24:56+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1288
+
 permalink: /javascript-unit-testing/
 dsq_thread_id:
   - "4510869590"
@@ -12,6 +12,10 @@ categories:
   - Learning
   - Programming
   - Web Development
+tags:
+  - testing
+  - javascript
+  - unit test
 ---
 [<img class="alignnone size-full wp-image-1290" src="/wp-content/uploads/2016/01/b1cda5a7a4e429cbb4df3f5c0d27c2b9.jpg" alt="b1cda5a7a4e429cbb4df3f5c0d27c2b9" width="3000" height="2000" />](/wp-content/uploads/2016/01/b1cda5a7a4e429cbb4df3f5c0d27c2b9.jpg)
 

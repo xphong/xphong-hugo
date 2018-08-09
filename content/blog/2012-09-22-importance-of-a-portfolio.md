@@ -4,7 +4,7 @@ title: Importance of a Portfolio
 date: 2012-09-22T13:50:05+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=269
+
 permalink: /importance-of-a-portfolio/
 dsq_thread_id:
   - "4281518944"

@@ -4,7 +4,7 @@ title: '“Passwords are like underwear: you don’t let people see it, you shou
 date: 2012-12-01T14:08:01+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=435
+
 permalink: /passwords-are-like-underwear-you-dont-let-people-see-it-you-should-change-it-very-often-and-you-shouldnt-share-it-with-strangers/
 dsq_thread_id:
   - "3985166948"

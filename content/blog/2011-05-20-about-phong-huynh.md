@@ -4,7 +4,7 @@ title: About Phong Huynh
 date: 2011-05-20T21:29:36+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1108
+
 permalink: /about-phong-huynh/
 dsq_thread_id:
   - "2944217054"

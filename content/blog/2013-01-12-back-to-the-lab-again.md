@@ -4,7 +4,7 @@ title: Back to the Lab Again
 date: 2013-01-12T11:24:32+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=452
+
 permalink: /back-to-the-lab-again/
 dsq_thread_id:
   - "3926367947"

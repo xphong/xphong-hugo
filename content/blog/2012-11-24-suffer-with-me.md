@@ -4,7 +4,7 @@ title: Suffer With Me
 date: 2012-11-24T15:26:35+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=395
+
 permalink: /suffer-with-me/
 dsq_thread_id:
   - "2906126505"

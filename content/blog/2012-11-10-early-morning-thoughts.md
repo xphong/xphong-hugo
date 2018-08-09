@@ -4,7 +4,7 @@ title: Early Morning Thoughts
 date: 2012-11-10T13:59:06+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=326
+
 permalink: /early-morning-thoughts/
 dsq_thread_id:
   - "2979833530"

@@ -4,7 +4,7 @@ title: Time for a Change
 date: 2013-03-16T10:41:05+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=603
+
 permalink: /time-for-a-change/
 dsq_thread_id:
   - "3431011051"

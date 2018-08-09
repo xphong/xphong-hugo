@@ -4,7 +4,7 @@ title: ASP.NET Assignment 2 Problem
 date: 2012-06-11T21:22:52+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=201
+
 permalink: /asp-net-assignment-2-problem/
 dsq_thread_id:
   - "3449428368"
@@ -34,15 +34,15 @@ Car model website does not receive check box list items for drop down list items
 <span style="text-decoration: underline;">Impact:</span> User cannot see the specific options for each car model when they select it.
 
 <span style="text-decoration: underline;"><br /> Solution:</span>_
-  
+
 if (!Page.IsPostBack)
-  
+
 {
-  
+
 ddlModels.DataSource = ModelsList;
-  
+
 ddlModels.DataBind();
-  
+
 }_
 
 This code makes it so that the data source does not reset to the first item if the page does not

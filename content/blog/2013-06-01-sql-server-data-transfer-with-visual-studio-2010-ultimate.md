@@ -4,7 +4,7 @@ title: 'SQL Server Database Transfer &#038; Compare with Visual Studio 2010 Ulti
 date: 2013-06-01T12:33:48+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=646
+
 permalink: /sql-server-data-transfer-with-visual-studio-2010-ultimate/
 dsq_thread_id:
   - "3060434908"

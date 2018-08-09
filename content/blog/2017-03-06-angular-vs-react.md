@@ -4,7 +4,7 @@ title: Angular vs React
 date: 2017-03-06T22:21:11+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1547
+
 permalink: /angular-vs-react/
 dsq_thread_id:
   - "6273872229"

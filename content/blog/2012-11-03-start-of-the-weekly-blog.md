@@ -4,7 +4,7 @@ title: Start of the Weekly Blog
 date: 2012-11-03T13:13:09+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=319
+
 permalink: /start-of-the-weekly-blog/
 dsq_thread_id:
   - "3784172831"

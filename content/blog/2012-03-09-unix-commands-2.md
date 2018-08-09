@@ -4,7 +4,7 @@ title: Unix Commands 2
 date: 2012-03-09T00:09:12+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=199
+
 permalink: /unix-commands-2/
 dsq_thread_id:
   - "3086741844"

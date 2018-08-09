@@ -4,7 +4,7 @@ title: Unix Commands
 date: 2012-03-03T18:06:07+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=197
+
 permalink: /unix-commands/
 dsq_thread_id:
   - "3015911379"
@@ -18,7 +18,7 @@ tags:
   Unix Assignment problem for Operating Systems class
 </div>
 
-<div>
+<div align="center">
   <a href="/wp-content/uploads/2012/03/Tux.svg_.png"><img class="size-medium wp-image-419 aligncenter" title="Unixp" src="/wp-content/uploads/2012/03/Tux.svg_-258x300.png" alt="Unixp" width="258" height="300" srcset="/wp-content/uploads/2012/03/Tux.svg_-258x300.png 258w, /wp-content/uploads/2012/03/Tux.svg_.png 500w" sizes="(max-width: 258px) 100vw, 258px" /></a>
 </div>
 
@@ -78,6 +78,6 @@ tags:
 
 <div>
   <p>
-    <em><span lang="EN-US">date +”%T” | cat >> caldate.txt</span></em>
+    <pre><span lang="EN-US">date +”%T” | cat >> caldate.txt</span></pre>
   </p>
 </div>

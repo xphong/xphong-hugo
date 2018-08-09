@@ -4,7 +4,7 @@ title: Simple React Redux Starter Guide / Documentation
 date: 2017-01-07T12:40:14+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=1494
+
 permalink: /simple-react-redux-starter-guide-documentation/
 dsq_thread_id:
   - "5443749084"

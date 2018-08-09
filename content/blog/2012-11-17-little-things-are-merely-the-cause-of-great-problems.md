@@ -4,7 +4,7 @@ title: Little Things are Merely the Cause of Great Problems?
 date: 2012-11-17T21:05:25+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=380
+
 permalink: /little-things-are-merely-the-cause-of-great-problems/
 dsq_thread_id:
   - "4281617727"

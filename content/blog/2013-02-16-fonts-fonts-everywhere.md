@@ -4,7 +4,7 @@ title: Fonts. Fonts Everywhere.
 date: 2013-02-16T09:35:53+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=468
+
 permalink: /fonts-fonts-everywhere/
 dsq_thread_id:
   - "2984176081"

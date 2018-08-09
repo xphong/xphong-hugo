@@ -4,7 +4,7 @@ title: ASP.NET Wizard Step
 date: 2012-09-19T18:12:15+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=280
+
 permalink: /asp-net-wizard-step/
 dsq_thread_id:
   - "3102158537"

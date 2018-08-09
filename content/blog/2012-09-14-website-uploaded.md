@@ -4,7 +4,7 @@ title: Website Uploaded
 date: 2012-09-14T20:33:36+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=272
+
 permalink: /website-uploaded/
 dsq_thread_id:
   - "5334610062"

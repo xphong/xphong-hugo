@@ -4,7 +4,7 @@ title: 'Internship &#8211; A Learning Experience'
 date: 2013-10-20T12:26:36+00:00
 author: Phong Huynh
 layout: post
-guid: http://www.phonghuynh.ca/?p=763
+
 permalink: /internship-learning-experience/
 dsq_thread_id:
   - "2900220040"
