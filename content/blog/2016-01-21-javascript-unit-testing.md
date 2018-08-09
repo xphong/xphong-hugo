@@ -19,7 +19,7 @@ tags:
 ---
 [<img class="alignnone size-full wp-image-1290" src="/wp-content/uploads/2016/01/b1cda5a7a4e429cbb4df3f5c0d27c2b9.jpg" alt="b1cda5a7a4e429cbb4df3f5c0d27c2b9" width="3000" height="2000" />](/wp-content/uploads/2016/01/b1cda5a7a4e429cbb4df3f5c0d27c2b9.jpg)
 
-In my last blog post <a href="http://www.phonghuynh.ca/transitioning-school-workplace/" target="_blank">A Web Developer&#8217;s Transition From School to the Workplace</a> I wrote that as a web developer, you should never stop learning and growing. I joined a new company a bit over a year ago and in the past year I have learned a lot, specifically about unit testing code. This is because on our projects, unit tests are required for a user story to be closed.
+In my last blog post <a href="https://phong.io/blog/2014-07-22-transitioning-school-workplace/" target="_blank">A Web Developer&#8217;s Transition From School to the Workplace</a> I wrote that as a web developer, you should never stop learning and growing. I joined a new company a bit over a year ago and in the past year I have learned a lot, specifically about unit testing code. This is because on our projects, unit tests are required for a user story to be closed.
 
 At previous companies I have worked at, unit tests were never enforced for JavaScript code. According to <a href="http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results#q7-javascript-testing" target="_blank">this recent survey</a>, 59.66% of respondents do not use a tool to test their JavaScript.
 

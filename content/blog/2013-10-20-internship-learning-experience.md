@@ -1,6 +1,6 @@
 ---
 id: 763
-title: 'Internship &#8211; A Learning Experience'
+title: 'Internship - A Learning Experience'
 date: 2013-10-20T12:26:36+00:00
 author: Phong Huynh
 layout: post
@@ -80,5 +80,5 @@ Your skills should never be &#8216;good enough&#8217;. Internship is pretty cool
 ### Check out the finished website!
 
 <div class="project-action">
-  <a target="_blank" class="button big blue  button-icon" href="http://www.thesantaclausparade.com"><i class="fa fa-eye"></i>VIEW WEBSITE</a><a target="_blank" class="button big green  button-icon" href="http://www.phonghuynh.ca/portfolio/santa-claus-parade/"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
+  <a target="_blank" class="button big blue  button-icon" href="http://www.thesantaclausparade.com"><i class="fa fa-eye"></i>VIEW WEBSITE</a>
 </div>

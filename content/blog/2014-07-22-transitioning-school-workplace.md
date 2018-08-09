@@ -1,6 +1,6 @@
 ---
 id: 1222
-title: 'A Web Developer&#8217;s Transition from School to the Workplace'
+title: 'A Web Developers Transition from School to the Workplace'
 date: 2014-07-22T08:17:20+00:00
 author: Phong Huynh
 layout: post
@@ -31,7 +31,7 @@ It has been around a year since I graduated and I can still remember how anxiou
 
 A little bit about me: I interned as a junior web developer at an agency for a couple of months, got a full-time job at that same agency, and now I am currently working at a startup/software company.
 
-When I got out of school I got an internship at a brand engagement agency called Dashboard. After working there as an intern for two months I received an offer for a full time position as a junior web developer. This doesn&#8217;t always happen, I think it was good timing because they were looking to hire a junior developer near the end of my internship period. You can read more about my internship experiences here: <a href="http://www.phonghuynh.ca/internship-learning-experience/" target="_blank">http://www.phonghuynh.ca/internship-learning-experience/</a>
+When I got out of school I got an internship at a brand engagement agency called Dashboard. After working there as an intern for two months I received an offer for a full time position as a junior web developer. This doesn&#8217;t always happen, I think it was good timing because they were looking to hire a junior developer near the end of my internship period. You can read more about my internship experiences here: <a href="https://phong.io/blog/2013-10-20-internship-learning-experience/" target="_blank">https://phong.io/blog/2013-10-20-internship-learning-experience/</a>
 
 I worked there for about three months doing mainly front end code with a little bit of PHP. Things did not work out, I ended up at a startup/software company called ScribbleLive and I have been working there for a little over four months doing HTML/CSS, JavaScript and a bit of C#.
 
@@ -83,7 +83,7 @@ For the salary offer, you will either get an offer during the interview if they
 
 ## The Future and Continuous Learning {#future}
 
-As a web developer, you should never stop learning and growing. Newer technologies and libraries are always emerging, it is best to always be curious and try them out if you can. Check out my previous article about learning new technologies:[ http://www.phonghuynh.ca/learning-new-technology/](http://www.phonghuynh.ca/learning-new-technology/)
+As a web developer, you should never stop learning and growing. Newer technologies and libraries are always emerging, it is best to always be curious and try them out if you can. Check out my previous article about learning new technologies:[ https://phong.io/blog/2014-04-01-learning-new-technology/](https://phong.io/blog/2014-04-01-learning-new-technology/)
 
 Find a mentor, they can be someone you work with or you can reach out to other developers who are better than you. In addition, try and mentor others when you feel like you have enough experience.
 

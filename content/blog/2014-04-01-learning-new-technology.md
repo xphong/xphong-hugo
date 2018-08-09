@@ -37,7 +37,7 @@ In this post, I am going to go through the process of how I learned a few of the
 
 ## Zurb Foundation with Sass & Compass
 
-I have already went through these technologies in an older blog post (<a title="Internship Learning Experience" href="http://www.phonghuynh.ca/internship-learning-experience/ " target="_blank">http://www.phonghuynh.ca/internship-learning-experience/</a>) so I won&#8217;t go into too much detail.
+I have already went through these technologies in an older blog post (<a title="Internship Learning Experience" href="https://phong.io/blog/2013-10-20-internship-learning-experience/ " target="_blank">https://phong.io/blog/2013-10-20-internship-learning-experience/</a>) so I won&#8217;t go into too much detail.
 
 I got to learn Foundation with Sass and Compass through The Santa Claus Parade website, which was an awesome project that I am glad to have worked on. I was forced to learn these technologies because the team was using it as their main stack, but it was great because there is a sense of urgency that further motivates you to learn.
 
@@ -45,9 +45,9 @@ I got to learn Foundation with Sass and Compass through The Santa Claus Parade w
 
 ## Grunt, NPM, and Bower
 
-It took me a while to learn Grunt, it was one of those things I have heard a lot about but I never bothered to learn because of laziness and procrastination. I remember visiting the main website, looking at the documentation I was just thinking what the fuck is going on here? So I left it off for a while.
+It took me a while to learn Grunt, it was one of those things I have heard a lot about but I never bothered to learn because of laziness and procrastination.
 
-A great project came along: <a title="ING DIRECT Infographic" href="http://www.phonghuynh.ca/portfolio/ing-direct-interactive-infographic/" target="_blank">The ING DIRECT Interactive Infographic</a>. It is a bilingual interactive app for users to see what kind of saver they are. I was told that I had to do the front end coding for this project, but I ended up doing the most of the project because there is really no need for a back end for this kind of app. The project came at wonderful  timing because Chris Coyier had just wrote a blog post on Grunt called <a title="Grunt for People Who Think Things Like Grunt are Weird and Hard" href="http://24ways.org/2013/grunt-is-not-weird-and-hard/" target="_blank">Grunt for People Who Think Things Like Grunt are Weird and Hard</a>. So I asked the team if I could use Grunt on this project since I was doing most of it myself.
+A great project came along: The ING DIRECT Interactive Infographic. It is a bilingual interactive app for users to see what kind of saver they are. I was told that I had to do the front end coding for this project, but I ended up doing the most of the project because there is really no need for a back end for this kind of app. The project came at wonderful  timing because Chris Coyier had just wrote a blog post on Grunt called <a title="Grunt for People Who Think Things Like Grunt are Weird and Hard" href="http://24ways.org/2013/grunt-is-not-weird-and-hard/" target="_blank">Grunt for People Who Think Things Like Grunt are Weird and Hard</a>. So I asked the team if I could use Grunt on this project since I was doing most of it myself.
 
 Some documentation can be pretty confusing, so I find it best just to find articles that help lead you through the learning process. By the way, that article by Chris Coyier is fucking awesome. I learned most of Grunt through it so check it out!
 
@@ -65,10 +65,6 @@ grunt
 </pre>
 
 The most satisfying experience was when I ran into a previous co-worker at the FITC conference. Though I am no longer with the team, I talked to my previous co-worker and they now use Grunt on their projects.
-
-<div class="project-action">
-  <a target="_blank" class="button big blue  button-icon" href="http://apps.dashboard.ca/ing/rsptfsa_infographic/"><i class="fa fa-eye"></i>VIEW WEBSITE</a><a target="_blank" class="button big green  button-icon" href="http://www.phonghuynh.ca/portfolio/ing-direct-interactive-infographic/"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
-</div>
 
 [<img class="alignnone size-full wp-image-1188" src="/wp-content/uploads/2014/04/handlebars.png" alt="handlebars" width="705" height="205" srcset="/wp-content/uploads/2014/04/handlebars.png 705w, /wp-content/uploads/2014/04/handlebars-300x87.png 300w, /wp-content/uploads/2014/04/handlebars-150x43.png 150w, /wp-content/uploads/2014/04/handlebars-400x116.png 400w" sizes="(max-width: 705px) 100vw, 705px" />](/wp-content/uploads/2014/04/handlebars.png){#Mustache}
 

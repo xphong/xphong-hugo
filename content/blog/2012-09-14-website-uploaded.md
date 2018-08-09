@@ -21,7 +21,7 @@ The website is now uploaded after struggling with a few problems inside the data
 
 Originally, I had this website uploaded on a /test directory so I can see that everything was running perfectly. However, when I moved my website to the root it caused some problems because of the database. When I uploaded my database it was all directed to the /test directory so that I can test my website. When moving the site into the root all of the paths in the database led to /test which was why all of my content did not show in the root.
 
-To fix this I exported my database file and changed all the links that have http://www.phonghuynh.ca/test to http://www.phonghuynh.ca and then imported my new database file.
+To fix this I exported my database file and changed all the links that have https://phong.io/test to https://phong.io and then imported my new database file.
 
 Anyways this website would not have been uploaded without the help of a friend and of course, the almighty Google search.
 

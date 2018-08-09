@@ -89,7 +89,7 @@ There are three different ways to add the font using Google Web Fonts, the most 
     </p>
 
     <div class="project-action">
-      <a class="button big blue  button-icon" href="http://shopright.phonghuynh.ca"><i class="fa fa-eye"></i>VIEW WEBSITE</a><a class="button big green  button-icon" href="http://www.phonghuynh.ca/"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
+      <a class="button big green  button-icon" href="https://phong.io"><i class="fa fa-star"></i>VIEW PORTFOLIO PROJECT</a>
     </div>
   </div>
 </div>
