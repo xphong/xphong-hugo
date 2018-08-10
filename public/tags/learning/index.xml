@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Software Developer</title>
+    <link>/tags/learning/</link>
+    <description>Recent content in Learning on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Apr 2014 08:27:06 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning a New Technology</title>
+      <link>/blog/2014-04-01-learning-new-technology/</link>
+      <pubDate>Tue, 01 Apr 2014 08:27:06 +0000</pubDate>
+      
+      <guid>/blog/2014-04-01-learning-new-technology/</guid>
+      <description>It&amp;#8217;s tough learning a new technology because you have no idea where to start, so you end up procrastinating and saying that you will learn it later or &amp;#8220;tomorrow&amp;#8221; and then it never happens. This still happens to me, but I have found a solution! The best way to learn a new library or framework is to use it on an existing project or use it on a new project.</description>
+    </item>
+    
+    <item>
+      <title>Internship - A Learning Experience</title>
+      <link>/blog/2013-10-20-internship-learning-experience/</link>
+      <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
+      
+      <guid>/blog/2013-10-20-internship-learning-experience/</guid>
+      <description>I had just recently completed my 8 week internship as a Web Developer. It was an amazing learning experience so I figure why not write about it.
+The Job Search After graduating, I felt that my skills were &amp;#8216;good enough&amp;#8217; to seek a full-time or contract job. I was applying for jobs for about a month, I got a couple of interviews/coding tests and one company really boosted my morale by saying only 10% pass their coding test (still skeptical but positivity was what I needed at that point).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Software Developer</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Aug 2011 21:29:36 +0000</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hubba</title>
+      <link>/portfolio/hubba/</link>
+      <pubDate>Tue, 09 Aug 2011 21:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/hubba/</guid>
+      <description>Description December 2016 - June 2018
+Technologies: JavaScript, AngularJS, React, Node.js, Express
+Hubba is a B2B commerce community in the retail space. Their network connects brands and buyers through machine learning and personal curation as well as providing tools for retail buyers that suggest new products to carry and allows them to search and discover brands within a set of search criteria.
+I worked on multiple features using HTML &amp;amp; CSS and JavaScript with Angular.</description>
+    </item>
+    
+    <item>
+      <title>Architech</title>
+      <link>/portfolio/architech/</link>
+      <pubDate>Tue, 09 Aug 2011 18:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/architech/</guid>
+      <description>Description December 2014 - December 2016
+Technologies: JavaScript, AngularJS, ReactJS, Node.js, Java
+Architech is a software consulting firm with a focus on mid to large sized enterprise projects. Clients include Rogers, Wind, Telus, LoyaltyOne, and many more.
+I worked on multiple projects using diverse technologies such as HTML/CSS, AngularJS, ReactJS, and Node.js. Other technologies include Java, Git, Atlassian tools, Bootstrap with Sass/LESS, D3.js, WebSockets, Grunt/Gulp, Karma/Jasmine/Mocha and other various Front End Development tools.</description>
+    </item>
+    
+    <item>
+      <title>ScribbleLive</title>
+      <link>/portfolio/scribblelive/</link>
+      <pubDate>Tue, 09 Aug 2011 15:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/scribblelive/</guid>
+      <description>Description March 2014 - December 2014
+Technologies: JavaScript, jQuery, ASP.NET with C#
+ScribbleLive was a multilingual real-time content marketing and engagement platform used on various websites such as Samsung, CNET, CNN, Fast Company and many more.
+ScribbleLive is now a content cloud provider used by brands, sports and media companies. ScribbleLive helps companies manage the lifecycle of their content - ideation, planning, creation, distributing, measurement - across their buyer&amp;rsquo;s journey.</description>
+    </item>
+    
+    <item>
+      <title>JAB FADC</title>
+      <link>/portfolio/jabfadc/</link>
+      <pubDate>Tue, 09 Aug 2011 10:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/jabfadc/</guid>
+      <description>Description January 2014
+Technologies: PHP, WordPress
+JAB FADC is a clothing brand that looks towards the fighting game community for inspiration while incorporating their own creativity and style.
+The task was to develop a fully responsive single page website. This project required a user-friendly content management system where the client can easily add/edit/delete content from the web page. Another requirement was a simple shopping cart that can be managed by the client.</description>
+    </item>
+    
+  </channel>
+</rss>

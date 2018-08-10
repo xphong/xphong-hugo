@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on Software Developer</title>
+    <link>/tags/unix/</link>
+    <description>Recent content in Unix on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 09 Mar 2012 00:09:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unix Commands 2</title>
+      <link>/blog/2012-03-09-unix-commands-2/</link>
+      <pubDate>Fri, 09 Mar 2012 00:09:12 +0000</pubDate>
+      
+      <guid>/blog/2012-03-09-unix-commands-2/</guid>
+      <description> Unix Assignment problem for Operating Systems class        Problem:    Display the calendar for the winter season (November, December, January, February, March and    April).      Impact:    The calendar dates need to be displayed at the same time    &amp;nbsp;    Solution:    cal -3 12 2012 | cal -3 3 2012    does not work because piping will cause the calendar to only show the January to april months    &amp;nbsp;    cal -3 12 2012 ; cal -3 3 2012    works because it inputs both the commands into the system which shows all of the calendar months for the winter season    </description>
+    </item>
+    
+    <item>
+      <title>Unix Commands</title>
+      <link>/blog/2012-03-03-unix-commands/</link>
+      <pubDate>Sat, 03 Mar 2012 18:06:07 +0000</pubDate>
+      
+      <guid>/blog/2012-03-03-unix-commands/</guid>
+      <description>Unix Assignment problem for Operating Systems class      Problem:    Display the current time (format: hours:minutes:seconds (can be 24-hour clock)) Save it to the end of the file caldate.txt.    &amp;nbsp;    Impact:    The time will not save to the file caldate.txt    &amp;nbsp;    Solution:    Pipe the cat command to the date command in order to save to the file caldate.</description>
+    </item>
+    
+  </channel>
+</rss>

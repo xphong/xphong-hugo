@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Software Developer</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 08 Jul 2012 11:14:06 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link>/tags/agile/</link>
+      <pubDate>Sun, 08 Jul 2012 11:14:06 +0000</pubDate>
+      
+      <guid>/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>/tags/angular/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api</title>
+      <link>/tags/api/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asp.net</title>
+      <link>/tags/asp.net/</link>
+      <pubDate>Sat, 01 Jun 2013 12:33:48 +0000</pubDate>
+      
+      <guid>/tags/asp.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beans</title>
+      <link>/tags/beans/</link>
+      <pubDate>Thu, 26 Apr 2012 15:28:45 +0000</pubDate>
+      
+      <guid>/tags/beans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Sat, 22 Sep 2012 13:50:05 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boilerplate</title>
+      <link>/tags/boilerplate/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/tags/boilerplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/tags/database/</link>
+      <pubDate>Sat, 01 Jun 2013 12:33:48 +0000</pubDate>
+      
+      <guid>/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Tue, 01 Apr 2014 08:27:06 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development Cycles</title>
+      <link>/tags/development-cycles/</link>
+      <pubDate>Sun, 08 Jul 2012 11:14:06 +0000</pubDate>
+      
+      <guid>/tags/development-cycles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ejb</title>
+      <link>/tags/ejb/</link>
+      <pubDate>Thu, 26 Apr 2012 15:28:45 +0000</pubDate>
+      
+      <guid>/tags/ejb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/tags/experience/</link>
+      <pubDate>Tue, 01 Apr 2014 08:27:06 +0000</pubDate>
+      
+      <guid>/tags/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fonts</title>
+      <link>/tags/fonts/</link>
+      <pubDate>Sat, 16 Feb 2013 09:35:53 +0000</pubDate>
+      
+      <guid>/tags/fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundation</title>
+      <link>/tags/foundation/</link>
+      <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
+      
+      <guid>/tags/foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>/tags/github/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>/tags/google/</link>
+      <pubDate>Sat, 15 Sep 2012 14:03:43 +0000</pubDate>
+      
+      <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Web Fonts</title>
+      <link>/tags/google-web-fonts/</link>
+      <pubDate>Sat, 16 Feb 2013 09:35:53 +0000</pubDate>
+      
+      <guid>/tags/google-web-fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship</title>
+      <link>/tags/internship/</link>
+      <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
+      
+      <guid>/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Sat, 16 Dec 2017 09:20:12 +0000</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Search</title>
+      <link>/tags/job-search/</link>
+      <pubDate>Tue, 22 Jul 2014 08:17:20 +0000</pubDate>
+      
+      <guid>/tags/job-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jquery</title>
+      <link>/tags/jquery/</link>
+      <pubDate>Sat, 17 Nov 2012 21:05:25 +0000</pubDate>
+      
+      <guid>/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsp</title>
+      <link>/tags/jsp/</link>
+      <pubDate>Mon, 30 Apr 2012 19:39:44 +0000</pubDate>
+      
+      <guid>/tags/jsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layers</title>
+      <link>/tags/layers/</link>
+      <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
+      
+      <guid>/tags/layers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Tue, 01 Apr 2014 08:27:06 +0000</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediator Design Pattern</title>
+      <link>/tags/mediator-design-pattern/</link>
+      <pubDate>Tue, 17 Jul 2012 13:16:48 +0000</pubDate>
+      
+      <guid>/tags/mediator-design-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>/tags/organization/</link>
+      <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
+      
+      <guid>/tags/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photoshop</title>
+      <link>/tags/photoshop/</link>
+      <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
+      
+      <guid>/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/tags/portfolio/</link>
+      <pubDate>Sat, 22 Sep 2012 13:50:05 +0000</pubDate>
+      
+      <guid>/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tags/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>/tags/react/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redux</title>
+      <link>/tags/redux/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/tags/redux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sass</title>
+      <link>/tags/sass/</link>
+      <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
+      
+      <guid>/tags/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School</title>
+      <link>/tags/school/</link>
+      <pubDate>Tue, 22 Jul 2014 08:17:20 +0000</pubDate>
+      
+      <guid>/tags/school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/tags/search/</link>
+      <pubDate>Sat, 15 Sep 2012 14:03:43 +0000</pubDate>
+      
+      <guid>/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seo</title>
+      <link>/tags/seo/</link>
+      <pubDate>Sat, 15 Sep 2012 14:03:43 +0000</pubDate>
+      
+      <guid>/tags/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Servlet</title>
+      <link>/tags/servlet/</link>
+      <pubDate>Sat, 14 Apr 2012 10:14:45 +0000</pubDate>
+      
+      <guid>/tags/servlet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Session Beans</title>
+      <link>/tags/session-beans/</link>
+      <pubDate>Mon, 30 Apr 2012 19:39:44 +0000</pubDate>
+      
+      <guid>/tags/session-beans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development Cycle</title>
+      <link>/tags/software-development-cycle/</link>
+      <pubDate>Sun, 08 Jul 2012 11:14:06 +0000</pubDate>
+      
+      <guid>/tags/software-development-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql Server</title>
+      <link>/tags/sql-server/</link>
+      <pubDate>Sat, 01 Jun 2013 12:33:48 +0000</pubDate>
+      
+      <guid>/tags/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>/tags/testing/</link>
+      <pubDate>Sat, 16 Dec 2017 09:20:12 +0000</pubDate>
+      
+      <guid>/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Test</title>
+      <link>/tags/unit-test/</link>
+      <pubDate>Thu, 21 Jan 2016 10:24:56 +0000</pubDate>
+      
+      <guid>/tags/unit-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>/tags/unix/</link>
+      <pubDate>Fri, 09 Mar 2012 00:09:12 +0000</pubDate>
+      
+      <guid>/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuejs</title>
+      <link>/tags/vuejs/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/tags/vuejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuex</title>
+      <link>/tags/vuex/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/tags/vuex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Application Development</title>
+      <link>/tags/web-application-development/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/tags/web-application-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weekly Blog</title>
+      <link>/tags/weekly-blog/</link>
+      <pubDate>Sat, 16 Feb 2013 09:35:53 +0000</pubDate>
+      
+      <guid>/tags/weekly-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

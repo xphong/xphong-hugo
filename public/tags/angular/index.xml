@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular on Software Developer</title>
+    <link>/tags/angular/</link>
+    <description>Recent content in Angular on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 Mar 2017 22:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/angular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angular vs React</title>
+      <link>/blog/2017-03-06-angular-vs-react/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/blog/2017-03-06-angular-vs-react/</guid>
+      <description>Demo Links  ANGULAR
+REACT
+SLIDE DECK
+  This is based on a lunch and learn presentation that I created, comparing Angular and React. First, I will be going through legacy vs future applications as the purpose of the presentation was to talk about the existing issues of the current application (written in AngularJS) and to provide knowledge around the newer frameworks/libraries.  Legacy Front End   Hard to Reuse Across Projects and Teams   A big issue with having a legacy front end is that it is hard to reuse across projects and teams.</description>
+    </item>
+    
+  </channel>
+</rss>

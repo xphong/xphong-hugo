@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asp.net on Software Developer</title>
+    <link>/tags/asp.net/</link>
+    <description>Recent content in Asp.net on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Jun 2013 12:33:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SQL Server Database Transfer &amp;#038; Compare with Visual Studio 2010 Ultimate</title>
+      <link>/blog/2013-06-01-sql-server-data-transfer-with-visual-studio-2010-ultimate/</link>
+      <pubDate>Sat, 01 Jun 2013 12:33:48 +0000</pubDate>
+      
+      <guid>/blog/2013-06-01-sql-server-data-transfer-with-visual-studio-2010-ultimate/</guid>
+      <description>This post describes how to transfer/compare data between 2 databases. Before I start, to transfer data using Visual Studio you need to have:
+VISUAL STUDIO 2010 ULTIMATE VERSION OR PREMIUM VERSION Most articles tend to leave this part out, this is a pain because you will open up your Visual Studio and wonder where the option is. Other versions of Visual Studio (2012, professional) do not have this tool installed.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Wizard Step</title>
+      <link>/blog/2012-09-19-asp-net-wizard-step/</link>
+      <pubDate>Wed, 19 Sep 2012 18:12:15 +0000</pubDate>
+      
+      <guid>/blog/2012-09-19-asp-net-wizard-step/</guid>
+      <description>An assignment for my Web Application Development class. For this assignment I had to create two forms that both use validation groups to validate the fields. One of the forms must use either Wizard Steps or Multiview. I chose Wizard Steps.
+Problem:
+Validation was not working for the wizard steps even though everything was coded perfectly.
+&amp;lt;asp:WizardStep id=”wds_2″ runat=”server” title=”Account Info”&amp;gt; &amp;lt;asp:Label ID=”lbl_username” runat=”server” Text=”Username: ” AssociatedControlID=”txt_username” /&amp;gt; &amp;lt;asp:TextBox ID=”txt_username” runat=”server” /&amp;gt; &amp;lt;asp:RequiredFieldValidator ID=”rfv_username” runat=”server” ControlToValidate=”txt_username” display=”Dynamic” Text=”Empty value” ErrorMessage=”Please enter username.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Assignment 2 Problem</title>
+      <link>/blog/2012-06-11-asp-net-assignment-2-problem/</link>
+      <pubDate>Mon, 11 Jun 2012 21:22:52 +0000</pubDate>
+      
+      <guid>/blog/2012-06-11-asp-net-assignment-2-problem/</guid>
+      <description>Had an error while working on my second assignment for ASP.NET class. For this assignment I had to make a web page that shows a drop down list of car model, which when selected shows a list of checkbox items for car packages. It will output what they selected once the user selects the car packages and presses submit.
+&amp;nbsp;
+Problem:
+Car model website does not receive check box list items for drop down list items other than the first item.</description>
+    </item>
+    
+  </channel>
+</rss>

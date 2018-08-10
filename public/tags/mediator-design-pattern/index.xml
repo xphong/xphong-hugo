@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediator Design Pattern on Software Developer</title>
+    <link>/tags/mediator-design-pattern/</link>
+    <description>Recent content in Mediator Design Pattern on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 17 Jul 2012 13:16:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mediator-design-pattern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mediator Design Pattern</title>
+      <link>/blog/2012-07-17-mediator-design-pattern/</link>
+      <pubDate>Tue, 17 Jul 2012 13:16:48 +0000</pubDate>
+      
+      <guid>/blog/2012-07-17-mediator-design-pattern/</guid>
+      <description>This is an assignment question I had for my Design Patterns and Software Testing class. It is an important question to answer because it deals with a real life situation. The question is also very detailed and will help me understand this certain design pattern.
+Problem:
+In this question, you are requested to design a representation for the “Department” in this company. There are currently four departments in this company as follow:</description>
+    </item>
+    
+  </channel>
+</rss>

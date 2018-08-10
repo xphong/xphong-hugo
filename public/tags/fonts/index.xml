@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fonts on Software Developer</title>
+    <link>/tags/fonts/</link>
+    <description>Recent content in Fonts on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Feb 2013 09:35:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fonts. Fonts Everywhere.</title>
+      <link>/blog/2013-02-16-fonts-fonts-everywhere/</link>
+      <pubDate>Sat, 16 Feb 2013 09:35:53 +0000</pubDate>
+      
+      <guid>/blog/2013-02-16-fonts-fonts-everywhere/</guid>
+      <description>Web Fonts In my PHP group project I have been given the role of being the designer for the interface of the website. Since we are using CSS3 I decided that using font-face will help with the design, and it did, tremendously.
+Here is the first version of the interface:
+
+Now here is the redesign using web fonts (Actual link &amp;#8211; http://shopright.phonghuynh.ca):
+
+&amp;nbsp;
+Also with some colour changes but we are talking about fonts here.</description>
+    </item>
+    
+  </channel>
+</rss>

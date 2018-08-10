@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Software Developer</title>
+    <link>/categories/posts/</link>
+    <description>Recent content in Posts on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Dec 2017 09:20:12 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why End-to-End Testing is Important for Your Team</title>
+      <link>/blog/2017-12-16-end-end-testing-important-team/</link>
+      <pubDate>Sat, 16 Dec 2017 09:20:12 +0000</pubDate>
+      
+      <guid>/blog/2017-12-16-end-end-testing-important-team/</guid>
+      <description>How our team did it in 4 easy steps Originally published at https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504
+At Hubba, our business needs are always evolving and the development speed needs to catch up with it. One of the ways to keep the team moving forward without breaking everything is End-to-end Testing (E2E). Having a full test suite with E2E tests allows us to move quickly. It allows developers to push code without the worry of breaking things.</description>
+    </item>
+    
+    <item>
+      <title>Marvel API &#43; Vuepack (Vue &#43; Vuex)</title>
+      <link>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</guid>
+      <description>Getting Started with Vue, Vuex, and API calls Originally published at https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
+TL;DR — This article will show you how to get quickly started with Vue and Vuex. In addition to grabbing data from an API and displaying it. We will be building a simple application that searches the Marvel database for characters then displays the results. What is Vue?   Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Angular vs React</title>
+      <link>/blog/2017-03-06-angular-vs-react/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/blog/2017-03-06-angular-vs-react/</guid>
+      <description>Demo Links  ANGULAR
+REACT
+SLIDE DECK
+  This is based on a lunch and learn presentation that I created, comparing Angular and React. First, I will be going through legacy vs future applications as the purpose of the presentation was to talk about the existing issues of the current application (written in AngularJS) and to provide knowledge around the newer frameworks/libraries.  Legacy Front End   Hard to Reuse Across Projects and Teams   A big issue with having a legacy front end is that it is hard to reuse across projects and teams.</description>
+    </item>
+    
+    <item>
+      <title>Simple React Redux Starter Guide / Documentation</title>
+      <link>/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</guid>
+      <description>When I started learning React Redux and creating side projects with it, I found it very hard to find a minimal starter/boilerplate package to start with. Picking and learning new tools can be difficult, especially in the current JavaScript ecosystem. The big reason to why I had trouble finding a starter was because a lot of the starter packages had a lot of boilerplate code that I did not want. I was looking for a pure front end application with routing and an API call that I could use as reference or as an example.</description>
+    </item>
+    
+    <item>
+      <title>A Web Developers Transition from School to the Workplace</title>
+      <link>/blog/2014-07-22-transitioning-school-workplace/</link>
+      <pubDate>Tue, 22 Jul 2014 08:17:20 +0000</pubDate>
+      
+      <guid>/blog/2014-07-22-transitioning-school-workplace/</guid>
+      <description>It has been around a year since I graduated and I can still remember how anxious I was about going into the workplace. After nearly a year of working in the industry, I feel that sharing my experiences will be helpful to those currently transitioning from school to the workplace.
+Table of Contents  Background School Portfolio and Job Searching Interview Process The Future and Continuous Learning  Background A little bit about me: I interned as a junior web developer at an agency for a couple of months, got a full-time job at that same agency, and now I am currently working at a startup/software company.</description>
+    </item>
+    
+    <item>
+      <title>About Phong Huynh</title>
+      <link>/blog/2011-05-20-about-phong-huynh/</link>
+      <pubDate>Fri, 20 May 2011 21:29:36 +0000</pubDate>
+      
+      <guid>/blog/2011-05-20-about-phong-huynh/</guid>
+      <description>My name is Phong Huynh, and I am a Web Developer in Toronto, Canada. I have a Postgraduate Certificate in Web Development and a diploma in Computer Programming, both with honours standing.
+At the young age of 13 I learned and taught myself how to use Adobe Photoshop 7 using online tutorials and videos. Using my self-taught skills I manipulated images to use as signature tags on forums and other various websites.</description>
+    </item>
+    
+  </channel>
+</rss>

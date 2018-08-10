@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Developer</title>
+    <link>/</link>
+    <description>Recent content on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Dec 2017 09:20:12 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why End-to-End Testing is Important for Your Team</title>
+      <link>/blog/2017-12-16-end-end-testing-important-team/</link>
+      <pubDate>Sat, 16 Dec 2017 09:20:12 +0000</pubDate>
+      
+      <guid>/blog/2017-12-16-end-end-testing-important-team/</guid>
+      <description>How our team did it in 4 easy steps Originally published at https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504
+At Hubba, our business needs are always evolving and the development speed needs to catch up with it. One of the ways to keep the team moving forward without breaking everything is End-to-end Testing (E2E). Having a full test suite with E2E tests allows us to move quickly. It allows developers to push code without the worry of breaking things.</description>
+    </item>
+    
+    <item>
+      <title>Marvel API &#43; Vuepack (Vue &#43; Vuex)</title>
+      <link>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</guid>
+      <description>Getting Started with Vue, Vuex, and API calls Originally published at https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
+TL;DR — This article will show you how to get quickly started with Vue and Vuex. In addition to grabbing data from an API and displaying it. We will be building a simple application that searches the Marvel database for characters then displays the results. What is Vue?   Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Angular vs React</title>
+      <link>/blog/2017-03-06-angular-vs-react/</link>
+      <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
+      
+      <guid>/blog/2017-03-06-angular-vs-react/</guid>
+      <description>Demo Links  ANGULAR
+REACT
+SLIDE DECK
+  This is based on a lunch and learn presentation that I created, comparing Angular and React. First, I will be going through legacy vs future applications as the purpose of the presentation was to talk about the existing issues of the current application (written in AngularJS) and to provide knowledge around the newer frameworks/libraries.  Legacy Front End   Hard to Reuse Across Projects and Teams   A big issue with having a legacy front end is that it is hard to reuse across projects and teams.</description>
+    </item>
+    
+    <item>
+      <title>Simple React Redux Starter Guide / Documentation</title>
+      <link>/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</link>
+      <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
+      
+      <guid>/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</guid>
+      <description>When I started learning React Redux and creating side projects with it, I found it very hard to find a minimal starter/boilerplate package to start with. Picking and learning new tools can be difficult, especially in the current JavaScript ecosystem. The big reason to why I had trouble finding a starter was because a lot of the starter packages had a lot of boilerplate code that I did not want. I was looking for a pure front end application with routing and an API call that I could use as reference or as an example.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript Unit Testing and Code Coverage</title>
+      <link>/blog/2016-01-21-javascript-unit-testing/</link>
+      <pubDate>Thu, 21 Jan 2016 10:24:56 +0000</pubDate>
+      
+      <guid>/blog/2016-01-21-javascript-unit-testing/</guid>
+      <description>In my last blog post A Web Developer&amp;#8217;s Transition From School to the Workplace I wrote that as a web developer, you should never stop learning and growing. I joined a new company a bit over a year ago and in the past year I have learned a lot, specifically about unit testing code. This is because on our projects, unit tests are required for a user story to be closed.</description>
+    </item>
+    
+    <item>
+      <title>A Web Developers Transition from School to the Workplace</title>
+      <link>/blog/2014-07-22-transitioning-school-workplace/</link>
+      <pubDate>Tue, 22 Jul 2014 08:17:20 +0000</pubDate>
+      
+      <guid>/blog/2014-07-22-transitioning-school-workplace/</guid>
+      <description>It has been around a year since I graduated and I can still remember how anxious I was about going into the workplace. After nearly a year of working in the industry, I feel that sharing my experiences will be helpful to those currently transitioning from school to the workplace.
+Table of Contents  Background School Portfolio and Job Searching Interview Process The Future and Continuous Learning  Background A little bit about me: I interned as a junior web developer at an agency for a couple of months, got a full-time job at that same agency, and now I am currently working at a startup/software company.</description>
+    </item>
+    
+    <item>
+      <title>Learning a New Technology</title>
+      <link>/blog/2014-04-01-learning-new-technology/</link>
+      <pubDate>Tue, 01 Apr 2014 08:27:06 +0000</pubDate>
+      
+      <guid>/blog/2014-04-01-learning-new-technology/</guid>
+      <description>It&amp;#8217;s tough learning a new technology because you have no idea where to start, so you end up procrastinating and saying that you will learn it later or &amp;#8220;tomorrow&amp;#8221; and then it never happens. This still happens to me, but I have found a solution! The best way to learn a new library or framework is to use it on an existing project or use it on a new project.</description>
+    </item>
+    
+    <item>
+      <title>Internship - A Learning Experience</title>
+      <link>/blog/2013-10-20-internship-learning-experience/</link>
+      <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
+      
+      <guid>/blog/2013-10-20-internship-learning-experience/</guid>
+      <description>I had just recently completed my 8 week internship as a Web Developer. It was an amazing learning experience so I figure why not write about it.
+The Job Search After graduating, I felt that my skills were &amp;#8216;good enough&amp;#8217; to seek a full-time or contract job. I was applying for jobs for about a month, I got a couple of interviews/coding tests and one company really boosted my morale by saying only 10% pass their coding test (still skeptical but positivity was what I needed at that point).</description>
+    </item>
+    
+    <item>
+      <title>SQL Server Database Transfer &amp;#038; Compare with Visual Studio 2010 Ultimate</title>
+      <link>/blog/2013-06-01-sql-server-data-transfer-with-visual-studio-2010-ultimate/</link>
+      <pubDate>Sat, 01 Jun 2013 12:33:48 +0000</pubDate>
+      
+      <guid>/blog/2013-06-01-sql-server-data-transfer-with-visual-studio-2010-ultimate/</guid>
+      <description>This post describes how to transfer/compare data between 2 databases. Before I start, to transfer data using Visual Studio you need to have:
+VISUAL STUDIO 2010 ULTIMATE VERSION OR PREMIUM VERSION Most articles tend to leave this part out, this is a pain because you will open up your Visual Studio and wonder where the option is. Other versions of Visual Studio (2012, professional) do not have this tool installed.</description>
+    </item>
+    
+    <item>
+      <title>Fonts. Fonts Everywhere.</title>
+      <link>/blog/2013-02-16-fonts-fonts-everywhere/</link>
+      <pubDate>Sat, 16 Feb 2013 09:35:53 +0000</pubDate>
+      
+      <guid>/blog/2013-02-16-fonts-fonts-everywhere/</guid>
+      <description>Web Fonts In my PHP group project I have been given the role of being the designer for the interface of the website. Since we are using CSS3 I decided that using font-face will help with the design, and it did, tremendously.
+Here is the first version of the interface:
+
+Now here is the redesign using web fonts (Actual link &amp;#8211; http://shopright.phonghuynh.ca):
+
+&amp;nbsp;
+Also with some colour changes but we are talking about fonts here.</description>
+    </item>
+    
+    <item>
+      <title>Little Things are Merely the Cause of Great Problems?</title>
+      <link>/blog/2012-11-17-little-things-are-merely-the-cause-of-great-problems/</link>
+      <pubDate>Sat, 17 Nov 2012 21:05:25 +0000</pubDate>
+      
+      <guid>/blog/2012-11-17-little-things-are-merely-the-cause-of-great-problems/</guid>
+      <description>Have you ever had that little error that messed up your whole project? Back in programming, I remember when I used to miss variable names and the program would not run. However, Java would tell you exactly where the error is. This week I was working on my second assignment for Digital Design, which requires me to code my mock-up website from assignment 1 into html/css. I made the mistake of putting a pretty looking slider in the mock-up because I did not know this assignment was coming&amp;#8230; So for the website I had to use a jQuery slider plugin for my slider.</description>
+    </item>
+    
+    <item>
+      <title>Early Morning Thoughts</title>
+      <link>/blog/2012-11-10-early-morning-thoughts/</link>
+      <pubDate>Sat, 10 Nov 2012 13:59:06 +0000</pubDate>
+      
+      <guid>/blog/2012-11-10-early-morning-thoughts/</guid>
+      <description>ASP.NET The assignment asked to make two separate .aspx pages. The first page uses a data bound control loaded with information from a table in the database. When the user clicks on the data, it essentially loads the full details of the selected data. The second page uses templates to allow for INSERT, UPDATE, and DELETE for the table. I spent all day googling how to create a button that dynamically loads another data bound control without using the autogenerate button.</description>
+    </item>
+    
+    <item>
+      <title>Grouping Layers</title>
+      <link>/blog/2012-10-08-grouping-layers/</link>
+      <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
+      
+      <guid>/blog/2012-10-08-grouping-layers/</guid>
+      <description>You should always be organizing your layers into a group when using Photoshop.
+I was working on an assignment for my Digital Design class where I had to build a series of mock up web pages. The requested size was to fit the standard 1024 pixel screen width, but when I was working on it I had it at 960 pixel width.
+When I realized that I had it at the wrong width I had already finished a couple of pages.</description>
+    </item>
+    
+    <item>
+      <title>Importance of a Portfolio</title>
+      <link>/blog/2012-09-22-importance-of-a-portfolio/</link>
+      <pubDate>Sat, 22 Sep 2012 13:50:05 +0000</pubDate>
+      
+      <guid>/blog/2012-09-22-importance-of-a-portfolio/</guid>
+      <description>The main purpose of this website was to create my programming portfolio and get it online.
+Having a portfolio is extremely important when you are a computer programmer because it is a good way to showcase and explain your work. In addition, having a portfolio ready can put you ahead of many other candidates when looking for a job.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Wizard Step</title>
+      <link>/blog/2012-09-19-asp-net-wizard-step/</link>
+      <pubDate>Wed, 19 Sep 2012 18:12:15 +0000</pubDate>
+      
+      <guid>/blog/2012-09-19-asp-net-wizard-step/</guid>
+      <description>An assignment for my Web Application Development class. For this assignment I had to create two forms that both use validation groups to validate the fields. One of the forms must use either Wizard Steps or Multiview. I chose Wizard Steps.
+Problem:
+Validation was not working for the wizard steps even though everything was coded perfectly.
+&amp;lt;asp:WizardStep id=”wds_2″ runat=”server” title=”Account Info”&amp;gt; &amp;lt;asp:Label ID=”lbl_username” runat=”server” Text=”Username: ” AssociatedControlID=”txt_username” /&amp;gt; &amp;lt;asp:TextBox ID=”txt_username” runat=”server” /&amp;gt; &amp;lt;asp:RequiredFieldValidator ID=”rfv_username” runat=”server” ControlToValidate=”txt_username” display=”Dynamic” Text=”Empty value” ErrorMessage=”Please enter username.</description>
+    </item>
+    
+    <item>
+      <title>SEO and Google Search</title>
+      <link>/blog/2012-09-15-seo-and-google-search/</link>
+      <pubDate>Sat, 15 Sep 2012 14:03:43 +0000</pubDate>
+      
+      <guid>/blog/2012-09-15-seo-and-google-search/</guid>
+      <description>After finally getting my website uploaded I realized that it was no where to be found on Google search. Achieving a high rank on a search engine like Google is very important because that is how people find you. Search engines are also known as the best source for traffic because everyone uses it.
+So to get on Google search I registered for Webmasters Tools and Analytics which requires you to put an XML sitemap and a script of code into your website so that you can appear on Google&amp;#8217;s index in order to get searched.</description>
+    </item>
+    
+    <item>
+      <title>Mediator Design Pattern</title>
+      <link>/blog/2012-07-17-mediator-design-pattern/</link>
+      <pubDate>Tue, 17 Jul 2012 13:16:48 +0000</pubDate>
+      
+      <guid>/blog/2012-07-17-mediator-design-pattern/</guid>
+      <description>This is an assignment question I had for my Design Patterns and Software Testing class. It is an important question to answer because it deals with a real life situation. The question is also very detailed and will help me understand this certain design pattern.
+Problem:
+In this question, you are requested to design a representation for the “Department” in this company. There are currently four departments in this company as follow:</description>
+    </item>
+    
+    <item>
+      <title>Software Development Cycle</title>
+      <link>/blog/2012-07-08-software-development-cycle/</link>
+      <pubDate>Sun, 08 Jul 2012 11:14:06 +0000</pubDate>
+      
+      <guid>/blog/2012-07-08-software-development-cycle/</guid>
+      <description>This is an assignment question I had for my Design Patterns and Software Testing class.
+Problem: 
+You are given a project that is going to be used in a high school with 400 students. The application will store the student specifications along with the courses they take and corresponding marks into a database and applies some calculations for each student and each class. For example, the average of the marks of a specific course in a class, the number of failed students in a subject in a class, etc.</description>
+    </item>
+    
+    <item>
+      <title>ASP.NET Assignment 2 Problem</title>
+      <link>/blog/2012-06-11-asp-net-assignment-2-problem/</link>
+      <pubDate>Mon, 11 Jun 2012 21:22:52 +0000</pubDate>
+      
+      <guid>/blog/2012-06-11-asp-net-assignment-2-problem/</guid>
+      <description>Had an error while working on my second assignment for ASP.NET class. For this assignment I had to make a web page that shows a drop down list of car model, which when selected shows a list of checkbox items for car packages. It will output what they selected once the user selects the car packages and presses submit.
+&amp;nbsp;
+Problem:
+Car model website does not receive check box list items for drop down list items other than the first item.</description>
+    </item>
+    
+    <item>
+      <title>Flyweight Design Pattern</title>
+      <link>/blog/2012-05-16-flyweight-design-pattern/</link>
+      <pubDate>Wed, 16 May 2012 16:00:00 +0000</pubDate>
+      
+      <guid>/blog/2012-05-16-flyweight-design-pattern/</guid>
+      <description>A problem I had while implementing the “flyweight” design pattern for a lab in my design patterns class. The flyweight design pattern basically has a factory to hold different attributes for example, the attributes of a font which are:   &amp;#8211; Font: String
+&amp;#8211; Size: Integer
+&amp;#8211; Color: String
+&amp;#8211; Italic: boolean
+&amp;#8211; Bold: Boolean
+&amp;#8211; Row: Integer
+&amp;#8211; Column: Integer  To implement the design pattern we must add different fonts to the factory, only if the font is not already in the factory.</description>
+    </item>
+    
+    <item>
+      <title>Java Session Bean</title>
+      <link>/blog/2012-04-30-java-session-bean/</link>
+      <pubDate>Mon, 30 Apr 2012 19:39:44 +0000</pubDate>
+      
+      <guid>/blog/2012-04-30-java-session-bean/</guid>
+      <description>Lab Question:
+A company has asked you to develop a mortgage payment calculator web site. This application which is created using Enterprise Java Beans, takes some parameters such as interest rate, mortgage amount and the interest term from the user and calculates the mortgage monthly payments. The result is back to the client. All of the business logics are implemented using Enterprise Java Bean.
+In more details, your application has the following components:</description>
+    </item>
+    
+    <item>
+      <title>Java Entity Bean</title>
+      <link>/blog/2012-04-26-java-entity-bean/</link>
+      <pubDate>Thu, 26 Apr 2012 15:28:45 +0000</pubDate>
+      
+      <guid>/blog/2012-04-26-java-entity-bean/</guid>
+      <description>Entity Bean lab for Distributed Computing using Java class. The purpose of this lab is to develop an EJB application that uses the entity bean which is used for accessing data inside of a database.
+Problem:
+Wrong type is entered for customer id.
+The code given in the lab is old and uses string as customer id.
+&amp;lt;% InitialContext ic = new InitialContext(); Object o = ic.lookup(CustomerSessionRemote.class.getName()); CustomerSessionRemote custSession = (CustomerSessionRemote) o; Customerinfo customer = custSession.</description>
+    </item>
+    
+    <item>
+      <title>Java Servlet</title>
+      <link>/blog/2012-04-14-java-servlet/</link>
+      <pubDate>Sat, 14 Apr 2012 10:14:45 +0000</pubDate>
+      
+      <guid>/blog/2012-04-14-java-servlet/</guid>
+      <description>This is an error I had while working with a java servlet assignment for my Distributed Computing using Java class. I had to receive parameters entered by a user and then output the receipt. However, I was unable to receive the parameters correctly.
+Problem:
+Not receiving parameters entered by a user on a webpage.
+Code:
+String sz = req.getParameter(“size”); String[] tops = req.getParameterValues(“top”); String ids = req.getParameter(“ID”); int id = Integer.</description>
+    </item>
+    
+    <item>
+      <title>Web Application Deployment Descriptor</title>
+      <link>/blog/2012-04-10-web-application-deployment-descriptor/</link>
+      <pubDate>Tue, 10 Apr 2012 22:27:27 +0000</pubDate>
+      
+      <guid>/blog/2012-04-10-web-application-deployment-descriptor/</guid>
+      <description>When working with servlets and java server pages, you need a web application deployment descriptor.
+It is basically an XML file (usually called web.xml or application.xml) that tells the container about the web application.
+It contains:
+ServletContext initialization parameters
+Servlet/JSP definitions
+Servlet/JSP mappings
+Welcome file list
+Error pages
+Problem:
+JSP/Servlet page outputs a descriptor error.
+Impact:
+Your webpage will not run without a deployment descriptor
+Solution:
+Add the deployment descriptor to the project.</description>
+    </item>
+    
+    <item>
+      <title>Unix Commands 2</title>
+      <link>/blog/2012-03-09-unix-commands-2/</link>
+      <pubDate>Fri, 09 Mar 2012 00:09:12 +0000</pubDate>
+      
+      <guid>/blog/2012-03-09-unix-commands-2/</guid>
+      <description> Unix Assignment problem for Operating Systems class        Problem:    Display the calendar for the winter season (November, December, January, February, March and    April).      Impact:    The calendar dates need to be displayed at the same time    &amp;nbsp;    Solution:    cal -3 12 2012 | cal -3 3 2012    does not work because piping will cause the calendar to only show the January to april months    &amp;nbsp;    cal -3 12 2012 ; cal -3 3 2012    works because it inputs both the commands into the system which shows all of the calendar months for the winter season    </description>
+    </item>
+    
+    <item>
+      <title>Unix Commands</title>
+      <link>/blog/2012-03-03-unix-commands/</link>
+      <pubDate>Sat, 03 Mar 2012 18:06:07 +0000</pubDate>
+      
+      <guid>/blog/2012-03-03-unix-commands/</guid>
+      <description>Unix Assignment problem for Operating Systems class      Problem:    Display the current time (format: hours:minutes:seconds (can be 24-hour clock)) Save it to the end of the file caldate.txt.    &amp;nbsp;    Impact:    The time will not save to the file caldate.txt    &amp;nbsp;    Solution:    Pipe the cat command to the date command in order to save to the file caldate.</description>
+    </item>
+    
+    <item>
+      <title>Hubba</title>
+      <link>/portfolio/hubba/</link>
+      <pubDate>Tue, 09 Aug 2011 21:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/hubba/</guid>
+      <description>Description December 2016 - June 2018
+Technologies: JavaScript, AngularJS, React, Node.js, Express
+Hubba is a B2B commerce community in the retail space. Their network connects brands and buyers through machine learning and personal curation as well as providing tools for retail buyers that suggest new products to carry and allows them to search and discover brands within a set of search criteria.
+I worked on multiple features using HTML &amp;amp; CSS and JavaScript with Angular.</description>
+    </item>
+    
+    <item>
+      <title>Architech</title>
+      <link>/portfolio/architech/</link>
+      <pubDate>Tue, 09 Aug 2011 18:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/architech/</guid>
+      <description>Description December 2014 - December 2016
+Technologies: JavaScript, AngularJS, ReactJS, Node.js, Java
+Architech is a software consulting firm with a focus on mid to large sized enterprise projects. Clients include Rogers, Wind, Telus, LoyaltyOne, and many more.
+I worked on multiple projects using diverse technologies such as HTML/CSS, AngularJS, ReactJS, and Node.js. Other technologies include Java, Git, Atlassian tools, Bootstrap with Sass/LESS, D3.js, WebSockets, Grunt/Gulp, Karma/Jasmine/Mocha and other various Front End Development tools.</description>
+    </item>
+    
+    <item>
+      <title>ScribbleLive</title>
+      <link>/portfolio/scribblelive/</link>
+      <pubDate>Tue, 09 Aug 2011 15:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/scribblelive/</guid>
+      <description>Description March 2014 - December 2014
+Technologies: JavaScript, jQuery, ASP.NET with C#
+ScribbleLive was a multilingual real-time content marketing and engagement platform used on various websites such as Samsung, CNET, CNN, Fast Company and many more.
+ScribbleLive is now a content cloud provider used by brands, sports and media companies. ScribbleLive helps companies manage the lifecycle of their content - ideation, planning, creation, distributing, measurement - across their buyer&amp;rsquo;s journey.</description>
+    </item>
+    
+    <item>
+      <title>JAB FADC</title>
+      <link>/portfolio/jabfadc/</link>
+      <pubDate>Tue, 09 Aug 2011 10:29:36 +0000</pubDate>
+      
+      <guid>/portfolio/jabfadc/</guid>
+      <description>Description January 2014
+Technologies: PHP, WordPress
+JAB FADC is a clothing brand that looks towards the fighting game community for inspiration while incorporating their own creativity and style.
+The task was to develop a fully responsive single page website. This project required a user-friendly content management system where the client can easily add/edit/delete content from the web page. Another requirement was a simple shopping cart that can be managed by the client.</description>
+    </item>
+    
+    <item>
+      <title>About Phong Huynh</title>
+      <link>/blog/2011-05-20-about-phong-huynh/</link>
+      <pubDate>Fri, 20 May 2011 21:29:36 +0000</pubDate>
+      
+      <guid>/blog/2011-05-20-about-phong-huynh/</guid>
+      <description>My name is Phong Huynh, and I am a Web Developer in Toronto, Canada. I have a Postgraduate Certificate in Web Development and a diploma in Computer Programming, both with honours standing.
+At the young age of 13 I learned and taught myself how to use Adobe Photoshop 7 using online tutorials and videos. Using my self-taught skills I manipulated images to use as signature tags on forums and other various websites.</description>
+    </item>
+    
+  </channel>
+</rss>

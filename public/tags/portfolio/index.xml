@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Software Developer</title>
+    <link>/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Sep 2012 13:50:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Importance of a Portfolio</title>
+      <link>/blog/2012-09-22-importance-of-a-portfolio/</link>
+      <pubDate>Sat, 22 Sep 2012 13:50:05 +0000</pubDate>
+      
+      <guid>/blog/2012-09-22-importance-of-a-portfolio/</guid>
+      <description>The main purpose of this website was to create my programming portfolio and get it online.
+Having a portfolio is extremely important when you are a computer programmer because it is a good way to showcase and explain your work. In addition, having a portfolio ready can put you ahead of many other candidates when looking for a job.</description>
+    </item>
+    
+  </channel>
+</rss>
