@@ -8,7 +8,7 @@ December 2014 - December 2016
 
 **Technologies:** JavaScript, AngularJS, ReactJS, Node.js, Java
 
-Architech is a software consulting firm with a focus on mid to large sized enterprise projects. Clients include Rogers, Wind, Telus, LoyaltyOne, and many more.
+Architech is a software consulting firm with a focus on mid to large sized enterprise projects. Clients include Rogers, Wind, Telus, LoyaltyOne, and [many more.](https://www.architech.ca/projects/)
 
 I worked on multiple projects using diverse technologies such as HTML/CSS, AngularJS, ReactJS, and Node.js. Other technologies include Java, Git, Atlassian tools, Bootstrap with Sass/LESS, D3.js, WebSockets, Grunt/Gulp, Karma/Jasmine/Mocha and other various Front End Development tools.
 

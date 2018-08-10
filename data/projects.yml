@@ -34,3 +34,8 @@ source:
     name: ScribbleLive
     description: Company work
     url: /portfolio/scribblelive
+
+  - icon: fa fa-globe
+    name: JAB FADC
+    description: Freelance work
+    url: /portfolio/jabfadc
