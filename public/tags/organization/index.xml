@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organization on Software Developer</title>
-    <link>https://xphong.github.io/tags/organization/</link>
+    <link>https://phong.io/tags/organization/</link>
     <description>Recent content in Organization on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 08 Oct 2012 15:47:32 +0000</lastBuildDate>
     
-	<atom:link href="https://xphong.github.io/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phong.io/tags/organization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Grouping Layers</title>
-      <link>https://xphong.github.io/blog/2012-10-08-grouping-layers/</link>
+      <link>https://phong.io/blog/2012-10-08-grouping-layers/</link>
       <pubDate>Mon, 08 Oct 2012 15:47:32 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-10-08-grouping-layers/</guid>
+      <guid>https://phong.io/blog/2012-10-08-grouping-layers/</guid>
       <description>You should always be organizing your layers into a group when using Photoshop.
 I was working on an assignment for my Digital Design class where I had to build a series of mock up web pages. The requested size was to fit the standard 1024 pixel screen width, but when I was working on it I had it at 960 pixel width.
 When I realized that I had it at the wrong width I had already finished a couple of pages.</description>

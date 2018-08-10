@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Software Developer</title>
-    <link>https://xphong.github.io/tags/blog/</link>
+    <link>https://phong.io/tags/blog/</link>
     <description>Recent content in Blog on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 22 Sep 2012 13:50:05 +0000</lastBuildDate>
     
-	<atom:link href="https://xphong.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phong.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Importance of a Portfolio</title>
-      <link>https://xphong.github.io/blog/2012-09-22-importance-of-a-portfolio/</link>
+      <link>https://phong.io/blog/2012-09-22-importance-of-a-portfolio/</link>
       <pubDate>Sat, 22 Sep 2012 13:50:05 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-09-22-importance-of-a-portfolio/</guid>
+      <guid>https://phong.io/blog/2012-09-22-importance-of-a-portfolio/</guid>
       <description>The main purpose of this website was to create my programming portfolio and get it online.
 Having a portfolio is extremely important when you are a computer programmer because it is a good way to showcase and explain your work. In addition, having a portfolio ready can put you ahead of many other candidates when looking for a job.</description>
     </item>
     
     <item>
       <title>ASP.NET Wizard Step</title>
-      <link>https://xphong.github.io/blog/2012-09-19-asp-net-wizard-step/</link>
+      <link>https://phong.io/blog/2012-09-19-asp-net-wizard-step/</link>
       <pubDate>Wed, 19 Sep 2012 18:12:15 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-09-19-asp-net-wizard-step/</guid>
+      <guid>https://phong.io/blog/2012-09-19-asp-net-wizard-step/</guid>
       <description>An assignment for my Web Application Development class. For this assignment I had to create two forms that both use validation groups to validate the fields. One of the forms must use either Wizard Steps or Multiview. I chose Wizard Steps.
 Problem:
 Validation was not working for the wizard steps even though everything was coded perfectly.
@@ -35,20 +35,20 @@ Validation was not working for the wizard steps even though everything was coded
     
     <item>
       <title>SEO and Google Search</title>
-      <link>https://xphong.github.io/blog/2012-09-15-seo-and-google-search/</link>
+      <link>https://phong.io/blog/2012-09-15-seo-and-google-search/</link>
       <pubDate>Sat, 15 Sep 2012 14:03:43 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-09-15-seo-and-google-search/</guid>
+      <guid>https://phong.io/blog/2012-09-15-seo-and-google-search/</guid>
       <description>After finally getting my website uploaded I realized that it was no where to be found on Google search. Achieving a high rank on a search engine like Google is very important because that is how people find you. Search engines are also known as the best source for traffic because everyone uses it.
 So to get on Google search I registered for Webmasters Tools and Analytics which requires you to put an XML sitemap and a script of code into your website so that you can appear on Google&amp;#8217;s index in order to get searched.</description>
     </item>
     
     <item>
       <title>Mediator Design Pattern</title>
-      <link>https://xphong.github.io/blog/2012-07-17-mediator-design-pattern/</link>
+      <link>https://phong.io/blog/2012-07-17-mediator-design-pattern/</link>
       <pubDate>Tue, 17 Jul 2012 13:16:48 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-07-17-mediator-design-pattern/</guid>
+      <guid>https://phong.io/blog/2012-07-17-mediator-design-pattern/</guid>
       <description>This is an assignment question I had for my Design Patterns and Software Testing class. It is an important question to answer because it deals with a real life situation. The question is also very detailed and will help me understand this certain design pattern.
 Problem:
 In this question, you are requested to design a representation for the “Department” in this company. There are currently four departments in this company as follow:</description>
@@ -56,10 +56,10 @@ In this question, you are requested to design a representation for the “Depart
     
     <item>
       <title>Software Development Cycle</title>
-      <link>https://xphong.github.io/blog/2012-07-08-software-development-cycle/</link>
+      <link>https://phong.io/blog/2012-07-08-software-development-cycle/</link>
       <pubDate>Sun, 08 Jul 2012 11:14:06 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-07-08-software-development-cycle/</guid>
+      <guid>https://phong.io/blog/2012-07-08-software-development-cycle/</guid>
       <description>This is an assignment question I had for my Design Patterns and Software Testing class.
 Problem: 
 You are given a project that is going to be used in a high school with 400 students. The application will store the student specifications along with the courses they take and corresponding marks into a database and applies some calculations for each student and each class. For example, the average of the marks of a specific course in a class, the number of failed students in a subject in a class, etc.</description>
@@ -67,10 +67,10 @@ You are given a project that is going to be used in a high school with 400 stude
     
     <item>
       <title>ASP.NET Assignment 2 Problem</title>
-      <link>https://xphong.github.io/blog/2012-06-11-asp-net-assignment-2-problem/</link>
+      <link>https://phong.io/blog/2012-06-11-asp-net-assignment-2-problem/</link>
       <pubDate>Mon, 11 Jun 2012 21:22:52 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-06-11-asp-net-assignment-2-problem/</guid>
+      <guid>https://phong.io/blog/2012-06-11-asp-net-assignment-2-problem/</guid>
       <description>Had an error while working on my second assignment for ASP.NET class. For this assignment I had to make a web page that shows a drop down list of car model, which when selected shows a list of checkbox items for car packages. It will output what they selected once the user selects the car packages and presses submit.
 &amp;nbsp;
 Problem:
@@ -79,10 +79,10 @@ Car model website does not receive check box list items for drop down list items
     
     <item>
       <title>Java Session Bean</title>
-      <link>https://xphong.github.io/blog/2012-04-30-java-session-bean/</link>
+      <link>https://phong.io/blog/2012-04-30-java-session-bean/</link>
       <pubDate>Mon, 30 Apr 2012 19:39:44 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-04-30-java-session-bean/</guid>
+      <guid>https://phong.io/blog/2012-04-30-java-session-bean/</guid>
       <description>Lab Question:
 A company has asked you to develop a mortgage payment calculator web site. This application which is created using Enterprise Java Beans, takes some parameters such as interest rate, mortgage amount and the interest term from the user and calculates the mortgage monthly payments. The result is back to the client. All of the business logics are implemented using Enterprise Java Bean.
 In more details, your application has the following components:</description>
@@ -90,10 +90,10 @@ In more details, your application has the following components:</description>
     
     <item>
       <title>Java Entity Bean</title>
-      <link>https://xphong.github.io/blog/2012-04-26-java-entity-bean/</link>
+      <link>https://phong.io/blog/2012-04-26-java-entity-bean/</link>
       <pubDate>Thu, 26 Apr 2012 15:28:45 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-04-26-java-entity-bean/</guid>
+      <guid>https://phong.io/blog/2012-04-26-java-entity-bean/</guid>
       <description>Entity Bean lab for Distributed Computing using Java class. The purpose of this lab is to develop an EJB application that uses the entity bean which is used for accessing data inside of a database.
 Problem:
 Wrong type is entered for customer id.
@@ -103,10 +103,10 @@ The code given in the lab is old and uses string as customer id.
     
     <item>
       <title>Java Servlet</title>
-      <link>https://xphong.github.io/blog/2012-04-14-java-servlet/</link>
+      <link>https://phong.io/blog/2012-04-14-java-servlet/</link>
       <pubDate>Sat, 14 Apr 2012 10:14:45 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-04-14-java-servlet/</guid>
+      <guid>https://phong.io/blog/2012-04-14-java-servlet/</guid>
       <description>This is an error I had while working with a java servlet assignment for my Distributed Computing using Java class. I had to receive parameters entered by a user and then output the receipt. However, I was unable to receive the parameters correctly.
 Problem:
 Not receiving parameters entered by a user on a webpage.
@@ -116,10 +116,10 @@ String sz = req.getParameter(“size”); String[] tops = req.getParameterValues
     
     <item>
       <title>Web Application Deployment Descriptor</title>
-      <link>https://xphong.github.io/blog/2012-04-10-web-application-deployment-descriptor/</link>
+      <link>https://phong.io/blog/2012-04-10-web-application-deployment-descriptor/</link>
       <pubDate>Tue, 10 Apr 2012 22:27:27 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-04-10-web-application-deployment-descriptor/</guid>
+      <guid>https://phong.io/blog/2012-04-10-web-application-deployment-descriptor/</guid>
       <description>When working with servlets and java server pages, you need a web application deployment descriptor.
 It is basically an XML file (usually called web.xml or application.xml) that tells the container about the web application.
 It contains:
@@ -138,19 +138,19 @@ Add the deployment descriptor to the project.</description>
     
     <item>
       <title>Unix Commands 2</title>
-      <link>https://xphong.github.io/blog/2012-03-09-unix-commands-2/</link>
+      <link>https://phong.io/blog/2012-03-09-unix-commands-2/</link>
       <pubDate>Fri, 09 Mar 2012 00:09:12 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-03-09-unix-commands-2/</guid>
+      <guid>https://phong.io/blog/2012-03-09-unix-commands-2/</guid>
       <description> Unix Assignment problem for Operating Systems class        Problem:    Display the calendar for the winter season (November, December, January, February, March and    April).      Impact:    The calendar dates need to be displayed at the same time    &amp;nbsp;    Solution:    cal -3 12 2012 | cal -3 3 2012    does not work because piping will cause the calendar to only show the January to april months    &amp;nbsp;    cal -3 12 2012 ; cal -3 3 2012    works because it inputs both the commands into the system which shows all of the calendar months for the winter season    </description>
     </item>
     
     <item>
       <title>Unix Commands</title>
-      <link>https://xphong.github.io/blog/2012-03-03-unix-commands/</link>
+      <link>https://phong.io/blog/2012-03-03-unix-commands/</link>
       <pubDate>Sat, 03 Mar 2012 18:06:07 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-03-03-unix-commands/</guid>
+      <guid>https://phong.io/blog/2012-03-03-unix-commands/</guid>
       <description>Unix Assignment problem for Operating Systems class      Problem:    Display the current time (format: hours:minutes:seconds (can be 24-hour clock)) Save it to the end of the file caldate.txt.    &amp;nbsp;    Impact:    The time will not save to the file caldate.txt    &amp;nbsp;    Solution:    Pipe the cat command to the date command in order to save to the file caldate.</description>
     </item>
     

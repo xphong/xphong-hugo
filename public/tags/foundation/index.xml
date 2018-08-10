@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foundation on Software Developer</title>
-    <link>https://xphong.github.io/tags/foundation/</link>
+    <link>https://phong.io/tags/foundation/</link>
     <description>Recent content in Foundation on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 20 Oct 2013 12:26:36 +0000</lastBuildDate>
     
-	<atom:link href="https://xphong.github.io/tags/foundation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phong.io/tags/foundation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Internship - A Learning Experience</title>
-      <link>https://xphong.github.io/blog/2013-10-20-internship-learning-experience/</link>
+      <link>https://phong.io/blog/2013-10-20-internship-learning-experience/</link>
       <pubDate>Sun, 20 Oct 2013 12:26:36 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2013-10-20-internship-learning-experience/</guid>
+      <guid>https://phong.io/blog/2013-10-20-internship-learning-experience/</guid>
       <description>I had just recently completed my 8 week internship as a Web Developer. It was an amazing learning experience so I figure why not write about it.
 The Job Search After graduating, I felt that my skills were &amp;#8216;good enough&amp;#8217; to seek a full-time or contract job. I was applying for jobs for about a month, I got a couple of interviews/coding tests and one company really boosted my morale by saying only 10% pass their coding test (still skeptical but positivity was what I needed at that point).</description>
     </item>

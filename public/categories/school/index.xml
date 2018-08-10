@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>School on Software Developer</title>
-    <link>https://xphong.github.io/categories/school/</link>
+    <link>https://phong.io/categories/school/</link>
     <description>Recent content in School on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 16 May 2012 16:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xphong.github.io/categories/school/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phong.io/categories/school/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Flyweight Design Pattern</title>
-      <link>https://xphong.github.io/blog/2012-05-16-flyweight-design-pattern/</link>
+      <link>https://phong.io/blog/2012-05-16-flyweight-design-pattern/</link>
       <pubDate>Wed, 16 May 2012 16:00:00 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2012-05-16-flyweight-design-pattern/</guid>
+      <guid>https://phong.io/blog/2012-05-16-flyweight-design-pattern/</guid>
       <description>A problem I had while implementing the “flyweight” design pattern for a lab in my design patterns class. The flyweight design pattern basically has a factory to hold different attributes for example, the attributes of a font which are:   &amp;#8211; Font: String
 &amp;#8211; Size: Integer
 &amp;#8211; Color: String

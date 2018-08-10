@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React on Software Developer</title>
-    <link>https://xphong.github.io/tags/react/</link>
+    <link>https://phong.io/tags/react/</link>
     <description>Recent content in React on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 06 Mar 2017 22:21:11 +0000</lastBuildDate>
     
-	<atom:link href="https://xphong.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phong.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Angular vs React</title>
-      <link>https://xphong.github.io/blog/2017-03-06-angular-vs-react/</link>
+      <link>https://phong.io/blog/2017-03-06-angular-vs-react/</link>
       <pubDate>Mon, 06 Mar 2017 22:21:11 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2017-03-06-angular-vs-react/</guid>
+      <guid>https://phong.io/blog/2017-03-06-angular-vs-react/</guid>
       <description>Demo Links  ANGULAR
 REACT
 SLIDE DECK
@@ -25,10 +25,10 @@ SLIDE DECK
     
     <item>
       <title>Simple React Redux Starter Guide / Documentation</title>
-      <link>https://xphong.github.io/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</link>
+      <link>https://phong.io/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</link>
       <pubDate>Sat, 07 Jan 2017 12:40:14 +0000</pubDate>
       
-      <guid>https://xphong.github.io/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</guid>
+      <guid>https://phong.io/blog/2017-01-07-simple-react-redux-starter-guide-documentation/</guid>
       <description>When I started learning React Redux and creating side projects with it, I found it very hard to find a minimal starter/boilerplate package to start with. Picking and learning new tools can be difficult, especially in the current JavaScript ecosystem. The big reason to why I had trouble finding a starter was because a lot of the starter packages had a lot of boilerplate code that I did not want. I was looking for a pure front end application with routing and an API call that I could use as reference or as an example.</description>
     </item>
     
