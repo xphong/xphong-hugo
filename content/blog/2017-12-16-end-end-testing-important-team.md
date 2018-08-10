@@ -13,7 +13,7 @@ categories:
   - Posts
 tags:
   - testing
-  - learning
+  - javascript
 ---
 # How our team did it in 4 easy steps {#7add.graf.graf--h4.graf-after--h3.graf--subtitle}
 
