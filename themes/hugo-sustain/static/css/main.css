@@ -190,7 +190,7 @@ figcaption,
   font-size: 18px;
 }
 .blogpost img {
-  width: 100%;
+  max-width: 100%;
 }
 
 /* Footer  */

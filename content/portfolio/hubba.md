@@ -74,3 +74,46 @@ Other responsibilities include:
  	<li>New navigation bar (created new nav package in Lerna repo, using Apollo, GraphQL)</li>
  	<li>Redesign of the entire application (font changes, UI kit changes)</li>
 </ul>
+
+<br />
+
+![](/wp-content/uploads/2018/05/hubba-brand-retina.png)
+![](/wp-content/uploads/2018/05/homepage-splash-full.4bfc1a5f.png)
+
+<br /><h3 align="center">Redesign (New navigation bar, fonts, UI)</h3>
+old design
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.14.27-AM.png)
+
+new design
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-11-at-7.36.38-AM.png)
+
+<br /><h3 align="center">Brand Dashboard</h3>
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.51.49-AM-1.png)
+
+<br /><h3 align="center">Messages Page</h3>
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.33.49-AM.png)
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.35.20-AM-e1525963428932.png)![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.35.09-AM-e1525963319521.png)
+
+<br /><h3 align="center">Create a Product Form</h3>
+![](/wp-content/uploads/2018/05/product.png)
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.54.31-AM.png)
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.54.36-AM.png)
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.54.41-AM.png)
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-10.46.06-AM-e1525965704378.png)
+
+<br /><h3 align="center">Brand Page</h3>
+![](/wp-content/uploads/2018/05/brand-page-story.png)
+
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-11.13.14-AM.png)
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-11.13.26-AM.png)
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-10-at-11.13.32-AM.png)
+
+<br /><h3 align="center">Brand and Product Wizard</h3>
+![](/wp-content/uploads/2018/05/brand-wizard.png)
+
+![](/wp-content/uploads/2018/05/product-wizard.png)
