@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Software Developer</title>
-    <link>/portfolio/</link>
+    <link>https://xphong.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 09 Aug 2011 21:29:36 +0000</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xphong.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hubba</title>
-      <link>/portfolio/hubba/</link>
+      <link>https://xphong.github.io/portfolio/hubba/</link>
       <pubDate>Tue, 09 Aug 2011 21:29:36 +0000</pubDate>
       
-      <guid>/portfolio/hubba/</guid>
+      <guid>https://xphong.github.io/portfolio/hubba/</guid>
       <description>Description December 2016 - June 2018
 Technologies: JavaScript, AngularJS, React, Node.js, Express
 Hubba is a B2B commerce community in the retail space. Their network connects brands and buyers through machine learning and personal curation as well as providing tools for retail buyers that suggest new products to carry and allows them to search and discover brands within a set of search criteria.
@@ -25,10 +25,10 @@ I worked on multiple features using HTML &amp;amp; CSS and JavaScript with Angu
     
     <item>
       <title>Architech</title>
-      <link>/portfolio/architech/</link>
+      <link>https://xphong.github.io/portfolio/architech/</link>
       <pubDate>Tue, 09 Aug 2011 18:29:36 +0000</pubDate>
       
-      <guid>/portfolio/architech/</guid>
+      <guid>https://xphong.github.io/portfolio/architech/</guid>
       <description>Description December 2014 - December 2016
 Technologies: JavaScript, AngularJS, ReactJS, Node.js, Java
 Architech is a software consulting firm with a focus on mid to large sized enterprise projects. Clients include Rogers, Wind, Telus, LoyaltyOne, and many more.
@@ -37,10 +37,10 @@ I worked on multiple projects using diverse technologies such as HTML/CSS, Angul
     
     <item>
       <title>ScribbleLive</title>
-      <link>/portfolio/scribblelive/</link>
+      <link>https://xphong.github.io/portfolio/scribblelive/</link>
       <pubDate>Tue, 09 Aug 2011 15:29:36 +0000</pubDate>
       
-      <guid>/portfolio/scribblelive/</guid>
+      <guid>https://xphong.github.io/portfolio/scribblelive/</guid>
       <description>Description March 2014 - December 2014
 Technologies: JavaScript, jQuery, ASP.NET with C#
 ScribbleLive was a multilingual real-time content marketing and engagement platform used on various websites such as Samsung, CNET, CNN, Fast Company and many more.
@@ -49,10 +49,10 @@ ScribbleLive is now a content cloud provider used by brands, sports and media co
     
     <item>
       <title>JAB FADC</title>
-      <link>/portfolio/jabfadc/</link>
+      <link>https://xphong.github.io/portfolio/jabfadc/</link>
       <pubDate>Tue, 09 Aug 2011 10:29:36 +0000</pubDate>
       
-      <guid>/portfolio/jabfadc/</guid>
+      <guid>https://xphong.github.io/portfolio/jabfadc/</guid>
       <description>Description January 2014
 Technologies: PHP, WordPress
 JAB FADC is a clothing brand that looks towards the fighting game community for inspiration while incorporating their own creativity and style.

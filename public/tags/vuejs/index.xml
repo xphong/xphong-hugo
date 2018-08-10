@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vuejs on Software Developer</title>
-    <link>/tags/vuejs/</link>
+    <link>https://xphong.github.io/tags/vuejs/</link>
     <description>Recent content in Vuejs on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Nov 2017 11:54:12 +0000</lastBuildDate>
     
-	<atom:link href="/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xphong.github.io/tags/vuejs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Marvel API &#43; Vuepack (Vue &#43; Vuex)</title>
-      <link>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</link>
+      <link>https://xphong.github.io/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</link>
       <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
       
-      <guid>/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</guid>
+      <guid>https://xphong.github.io/blog/2017-11-12-marvel-api-vuepack-vue-vuex/</guid>
       <description>Getting Started with Vue, Vuex, and API calls Originally published at https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
 TL;DR — This article will show you how to get quickly started with Vue and Vuex. In addition to grabbing data from an API and displaying it. We will be building a simple application that searches the Marvel database for characters then displays the results. What is Vue?   Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.</description>
     </item>

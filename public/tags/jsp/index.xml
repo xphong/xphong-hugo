@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jsp on Software Developer</title>
-    <link>/tags/jsp/</link>
+    <link>https://xphong.github.io/tags/jsp/</link>
     <description>Recent content in Jsp on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 30 Apr 2012 19:39:44 +0000</lastBuildDate>
     
-	<atom:link href="/tags/jsp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xphong.github.io/tags/jsp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java Session Bean</title>
-      <link>/blog/2012-04-30-java-session-bean/</link>
+      <link>https://xphong.github.io/blog/2012-04-30-java-session-bean/</link>
       <pubDate>Mon, 30 Apr 2012 19:39:44 +0000</pubDate>
       
-      <guid>/blog/2012-04-30-java-session-bean/</guid>
+      <guid>https://xphong.github.io/blog/2012-04-30-java-session-bean/</guid>
       <description>Lab Question:
 A company has asked you to develop a mortgage payment calculator web site. This application which is created using Enterprise Java Beans, takes some parameters such as interest rate, mortgage amount and the interest term from the user and calculates the mortgage monthly payments. The result is back to the client. All of the business logics are implemented using Enterprise Java Bean.
 In more details, your application has the following components:</description>
@@ -24,10 +24,10 @@ In more details, your application has the following components:</description>
     
     <item>
       <title>Web Application Deployment Descriptor</title>
-      <link>/blog/2012-04-10-web-application-deployment-descriptor/</link>
+      <link>https://xphong.github.io/blog/2012-04-10-web-application-deployment-descriptor/</link>
       <pubDate>Tue, 10 Apr 2012 22:27:27 +0000</pubDate>
       
-      <guid>/blog/2012-04-10-web-application-deployment-descriptor/</guid>
+      <guid>https://xphong.github.io/blog/2012-04-10-web-application-deployment-descriptor/</guid>
       <description>When working with servlets and java server pages, you need a web application deployment descriptor.
 It is basically an XML file (usually called web.xml or application.xml) that tells the container about the web application.
 It contains:

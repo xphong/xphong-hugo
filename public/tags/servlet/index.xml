@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Servlet on Software Developer</title>
-    <link>/tags/servlet/</link>
+    <link>https://xphong.github.io/tags/servlet/</link>
     <description>Recent content in Servlet on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Apr 2012 10:14:45 +0000</lastBuildDate>
     
-	<atom:link href="/tags/servlet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xphong.github.io/tags/servlet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java Servlet</title>
-      <link>/blog/2012-04-14-java-servlet/</link>
+      <link>https://xphong.github.io/blog/2012-04-14-java-servlet/</link>
       <pubDate>Sat, 14 Apr 2012 10:14:45 +0000</pubDate>
       
-      <guid>/blog/2012-04-14-java-servlet/</guid>
+      <guid>https://xphong.github.io/blog/2012-04-14-java-servlet/</guid>
       <description>This is an error I had while working with a java servlet assignment for my Distributed Computing using Java class. I had to receive parameters entered by a user and then output the receipt. However, I was unable to receive the parameters correctly.
 Problem:
 Not receiving parameters entered by a user on a webpage.

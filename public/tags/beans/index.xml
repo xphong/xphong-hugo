@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beans on Software Developer</title>
-    <link>/tags/beans/</link>
+    <link>https://xphong.github.io/tags/beans/</link>
     <description>Recent content in Beans on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 26 Apr 2012 15:28:45 +0000</lastBuildDate>
     
-	<atom:link href="/tags/beans/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xphong.github.io/tags/beans/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java Entity Bean</title>
-      <link>/blog/2012-04-26-java-entity-bean/</link>
+      <link>https://xphong.github.io/blog/2012-04-26-java-entity-bean/</link>
       <pubDate>Thu, 26 Apr 2012 15:28:45 +0000</pubDate>
       
-      <guid>/blog/2012-04-26-java-entity-bean/</guid>
+      <guid>https://xphong.github.io/blog/2012-04-26-java-entity-bean/</guid>
       <description>Entity Bean lab for Distributed Computing using Java class. The purpose of this lab is to develop an EJB application that uses the entity bean which is used for accessing data inside of a database.
 Problem:
 Wrong type is entered for customer id.
