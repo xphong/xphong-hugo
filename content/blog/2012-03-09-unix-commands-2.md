@@ -13,6 +13,7 @@ categories:
 tags:
   - blog
   - unix
+  - school
 ---
 <div>
   Unix Assignment problem for Operating Systems class

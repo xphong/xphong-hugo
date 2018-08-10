@@ -14,6 +14,7 @@ categories:
 tags:
   - ASP.NET
   - blog
+  - school
 ---
 Had an error while working on my second assignment for ASP.NET class. For this assignment I had to make a web page that shows a drop down list of car model, which when selected shows a list of checkbox items for car packages. It will output what they selected once the user selects the car packages and presses submit.
 

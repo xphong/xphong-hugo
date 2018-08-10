@@ -16,6 +16,7 @@ tags:
   - google web fonts
   - web development
   - weekly blog
+  - school
 ---
 ### Web Fonts
 

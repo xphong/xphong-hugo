@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Web Development
 tags:
-  - umvc3
   - web development
   - weekly blog
+  - school
 ---
 [<img class="size-full wp-image-421 aligncenter" title="SQL" src="/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png" alt="SQL" width="128" height="128" />](/wp-content/uploads/2012/11/Sql_database_shortcut_icon_.png)
 

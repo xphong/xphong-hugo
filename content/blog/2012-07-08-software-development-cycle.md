@@ -16,6 +16,7 @@ tags:
   - blog
   - development cycles
   - software development cycle
+  - school
 ---
 This is an assignment question I had for my Design Patterns and Software Testing class.
 

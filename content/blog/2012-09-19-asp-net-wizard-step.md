@@ -15,6 +15,7 @@ categories:
 tags:
   - ASP.NET
   - blog
+  - school
 ---
 An assignment for my Web Application Development class. For this assignment I had to create two forms that both use validation groups to validate the fields. One of the forms must use either Wizard Steps or Multiview. I chose Wizard Steps.
 

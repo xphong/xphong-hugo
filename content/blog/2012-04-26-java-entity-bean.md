@@ -15,6 +15,7 @@ tags:
   - beans
   - blog
   - EJB
+  - school
 ---
 ![](/wp-content/uploads/2012/04/Image1-455x270.gif)
 Entity Bean lab for Distributed Computing using Java class. The purpose of this lab is to develop an EJB application that uses the entity bean which is used for accessing data inside of a database.

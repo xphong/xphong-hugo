@@ -16,6 +16,7 @@ tags:
   - ASP.NET
   - database
   - sql server
+  - school
 ---
 This post describes how to transfer/compare data between 2 databases. Before I start, to transfer data using Visual Studio you need to have:
 

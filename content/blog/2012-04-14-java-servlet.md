@@ -14,6 +14,7 @@ categories:
 tags:
   - blog
   - servlet
+  - school
 ---
 This is an error I had while working with a java servlet assignment for my Distributed Computing using Java class. I had to receive parameters entered by a user and then output the receipt. However, I was unable to receive the parameters correctly.
 

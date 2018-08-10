@@ -15,6 +15,7 @@ tags:
   - organization
   - photoshop
   - website
+  - school
 ---
 You should always be organizing your layers into a group when using Photoshop.
 

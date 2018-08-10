@@ -14,6 +14,7 @@ categories:
 tags:
   - blog
   - mediator design pattern
+  - school
 ---
 ![](/wp-content/uploads/2012/07/Mediator-Pattern_2.gif)
 This is an assignment question I had for my Design Patterns and Software Testing class. It is an important question to answer because it deals with a real life situation. The question is also very detailed and will help me understand this certain design pattern.

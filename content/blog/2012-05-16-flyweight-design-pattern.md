@@ -10,7 +10,8 @@ dsq_thread_id:
   - "3632417118"
 image: /wp-content/uploads/2012/05/flyweight-455x270.gif
 categories:
-  - Programming
+  - programming
+  - school
 ---
 ![](/wp-content/uploads/2012/05/flyweight-455x270.gif)
 <p class="drop-cap">

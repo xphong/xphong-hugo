@@ -15,6 +15,7 @@ categories:
 tags:
   - blog
   - portfolio
+  - school
 ---
 The main purpose of this website was to create my programming portfolio and get it online.
 

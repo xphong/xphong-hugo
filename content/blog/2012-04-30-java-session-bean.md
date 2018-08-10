@@ -15,6 +15,7 @@ tags:
   - blog
   - jsp
   - session beans
+  - school
 ---
 Lab Question:
 

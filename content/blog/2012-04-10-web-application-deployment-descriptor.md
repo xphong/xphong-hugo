@@ -14,6 +14,7 @@ categories:
 tags:
   - blog
   - jsp
+  - school
 ---
 ![](/wp-content/uploads/2012/04/overview-applicationModule-455x261.gif)
 When working with servlets and java server pages, you need a web application deployment descriptor.
