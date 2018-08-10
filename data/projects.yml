@@ -21,11 +21,16 @@ source:
     url: https://codeburst.io/marvel-api-vuepack-vue-vuex-c84067a7f7fc
 
   - icon: fa fa-list-ul
-    name: Project 6
-    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-    url: https://github.com/xphong
+    name: Hubba
+    description: Company work
+    url: /portfolio/hubba
 
   - icon: fa fa-list-ul
-    name: Project 7
-    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
-    url: https://github.com/xphong
+    name: Architech
+    description: Company work
+    url: /portfolio/architech
+
+  - icon: fa fa-list-ul
+    name: ScribbleLive
+    description: Company work
+    url: /portfolio/scribblelive
