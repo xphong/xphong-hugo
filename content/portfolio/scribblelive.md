@@ -8,7 +8,9 @@ March 2014 - December 2014
 
 **Technologies:** JavaScript, jQuery, ASP.NET with C#
 
-ScribbleLive is a multilingual real-time content marketing and engagement platform used on various websites such as Samsung, CNET, CNN, Fast Company and many more.
+ScribbleLive was a multilingual real-time content marketing and engagement platform used on various websites such as Samsung, CNET, CNN, Fast Company and many more.
+
+ScribbleLive is now a content cloud provider used by brands, sports and media companies. ScribbleLive helps companies manage the lifecycle of their content - ideation, planning, creation, distributing, measurement - across their buyer's journey.
 
 I worked on multiple features using HTML & CSS and JavaScript with jQuery. Other technologies include ASP.NET 4.5, Git, Atlassian tools, Handlebars.js, Social APIs (Facebook, YouTube, Twitter, Flickr, Instagram, Wikipedia).
 

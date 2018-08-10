@@ -2,7 +2,7 @@ name: Projects
 source:
   - icon: fa fa-github
     name: Marvel App
-    description: Full Stack - React/Redux + Node/MongoDB + Marvel API.
+    description: React/Redux + Node/MongoDB + Marvel API.
     url: https://github.com/xphong/marvel-app
 
   - icon: fa fa-github
@@ -22,20 +22,20 @@ source:
 
   - icon: fa fa-list-ul
     name: Hubba
-    description: Company work
+    description: Company work - Hubba is a computer software company in the retail technology space.
     url: /portfolio/hubba
 
   - icon: fa fa-list-ul
     name: Architech
-    description: Company work
+    description: Company work - Architech is a software consulting firm with a focus on mid to large sized enterprise projects.
     url: /portfolio/architech
 
   - icon: fa fa-list-ul
     name: ScribbleLive
-    description: Company work
+    description: Company work - ScribbleLive is a content cloud provider used by brands, sports and media companies.
     url: /portfolio/scribblelive
 
   - icon: fa fa-globe
     name: JAB FADC
-    description: Freelance work
+    description: Freelance work - JAB FADC is a clothing brand that looks towards the fighting game community for inspiration while incorporating their own creativity and style.
     url: /portfolio/jabfadc
