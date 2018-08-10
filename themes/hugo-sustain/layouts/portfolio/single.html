@@ -5,10 +5,12 @@
     {{ partial "header" . }}
     <section id="portfolio">
       <div class="container">
-        <h3>{{ .Title }}</h3>
+        <h1>{{ .Title }}</h1>
         <div class="panel panel-default">
           <div class="panel-body">
+            <div class="blogpost">
               {{ .Content }}
+            </div>
           </div>
         </div>
       </div>
