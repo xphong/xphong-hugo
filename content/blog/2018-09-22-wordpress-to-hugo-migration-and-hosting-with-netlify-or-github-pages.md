@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Portfolio WordPress to Hugo (Static Site) Migration
+title: Why Migrate from WordPress to a Static Site Generator
 date: 2018-09-22T13:02:47.806Z
 ---
-Having a personal website with a portfolio and blog is extremely beneficial because it is a good way to showcase and also explain your work. Most people like seeing graphics and pictures, therefore having a visually appealing website would put you ahead of the curve. In addition, having a portfolio/blog can put you ahead of many other candidates when looking for a job.
-
-The initial choice for WordPress was because of the content management system (CMS) and ease of use. WordPress also powers more than [31% of the web](https://wordpress.org/about/features/).
-
 ![Migration](/img/uploads/barth-bailey-534083-unsplash.jpg)
 
-# Why Migrate?
+The initial choice for WordPress was because of the content management system (CMS) and ease of use. WordPress also powers more than [31% of the web](https://wordpress.org/about/features/).
 
 The key reasons to migrate from WordPress to a static site generator like Hugo are **cost savings and speed.** Other reasons include security, less complex customizations, and scalability/maintainability.
 
@@ -39,22 +35,8 @@ Below are tests I ran using [Pingdom Website Speed Test](https://tools.pingdom.c
 
 With static sites, there is no dynamic data storage which means there's nothing a hacker can exploit. With WordPress, there are known exploits and with every WordPress plugin you install introduces a potential access point for hackers.
 
+# Conclusion
 
+In conclusion, moving to a static site from a dynamic site like WordPress has many benefits including cost savings, quick page load times, and increased security.
 
-# What is Hugo?
-
-![Hugo Logo](/img/uploads/hugo-logo.png)
-
-> Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
->
-> Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.
->
-> Hugo renders a typical website of moderate size in a fraction of a second. A good rule of thumb is that each piece of content renders in around 1 millisecond.
->
-> Hugo is designed to work well for any kind of website including blogs, tumbles, and docs.
->
-> <https://github.com/gohugoio/hugo#overview>
-
-
-
-# Getting Started
+Check out Part 2 (In Progress) for steps on how to get started with the migration.
