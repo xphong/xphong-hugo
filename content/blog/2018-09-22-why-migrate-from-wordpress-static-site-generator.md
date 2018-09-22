@@ -2,6 +2,14 @@
 layout: post
 title: Why Migrate from WordPress to a Static Site Generator
 date: 2018-09-22T13:02:47.806Z
+categories:
+  - Learning
+  - Posts
+  - Web Development
+tags:
+  - static site
+  - wordpress
+  - migration
 ---
 ![Migration](/img/uploads/barth-bailey-534083-unsplash.jpg)
 
