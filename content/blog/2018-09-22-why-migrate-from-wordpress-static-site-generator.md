@@ -10,6 +10,7 @@ tags:
   - static site
   - wordpress
   - migration
+  - portfolio
 ---
 ![Migration](/img/uploads/barth-bailey-534083-unsplash.jpg)
 
