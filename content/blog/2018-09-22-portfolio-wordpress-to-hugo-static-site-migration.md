@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WordPress to Static Site Generator (Hugo) Migration and Deployment
-date: 2018-09-22T15:01:21.727Z
+date: 2018-09-24T15:01:21.727Z
 ---
 TL;DR — This article will show you how to migrate a simple
 [WordPress](https://wordpress.com/) website to a static site generator
