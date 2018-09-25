@@ -12,14 +12,14 @@ Pages](https://pages.github.com/).
 [GitHub Repository for this demo](https://github.com/xphong/hugo-demo) / [Demo
 Site](https://hugo-blog-demo.netlify.com/)
 
+# What is Hugo?
 
-### What is Hugo?
+![null](https://cdn-images-1.medium.com/max/1600/1*24rMpWwzXmNtbdwLzkDhWQ.png)
 
-![](https://cdn-images-1.medium.com/max/1600/1*24rMpWwzXmNtbdwLzkDhWQ.png)
-Hugo is a static HTML and CSS website generator written in Go. It is optimized
-for speed, ease of use, and configurability. Hugo takes a directory with content
-and templates and renders them into a full HTML website.
-
+> Hugo is a static HTML and CSS website generator written in Go. It is optimized
+> for speed, ease of use, and configurability. Hugo takes a directory with content
+> and templates and renders them into a full HTML website.
+>
 > Hugo relies on Markdown files with front matter for metadata, and you can run
 > Hugo from any directory. This works well for shared hosts and other systems
 > where you don’t have a privileged account.
@@ -31,21 +31,21 @@ and templates and renders them into a full HTML website.
 >
 > (<https://github.com/gohugoio/hugo#overview>)
 
-### What is GitHub Pages?
+# What is GitHub Pages?
 
 > GitHub Pages is a static site hosting service designed to host your personal,
 > organization, or project pages directly from a GitHub repository.
 >
 > (<https://help.github.com/articles/what-is-github-pages/>)
 
-### What is Netlify?
+# What is Netlify?
 
 > Netlify is perfecting a unified platform that automates your code to create
 > high-performant, easily-maintainable sites and web-apps.
 >
 > (<https://www.netlify.com/press/>)
 
-### Getting Started
+# Getting Started
 
 To get started, you will need to [create a new GitHub
 repository](https://help.github.com/articles/create-a-repo/) for your Hugo
@@ -54,7 +54,7 @@ project.
 Inside the repository, we will [create a new hugo
 site.](https://gohugo.io/getting-started/quick-start/) 
 
-#### Steps:
+## Steps:
 
 1. Install Hugo: 
    brew install hugo
@@ -114,9 +114,11 @@ up and running.
 hugo server
 ```
 
-![](https://cdn-images-1.medium.com/max/1600/1*QJgFEWnHx5hBoaRR1gIGPg.png)
+![null](https://cdn-images-1.medium.com/max/1600/1*QJgFEWnHx5hBoaRR1gIGPg.png)
 
-#### Exporting the Content
+# WordPress Migration
+
+## Exporting the Content
 
 We will be the [Jekyll Exporter WordPress
 plugin](https://wordpress.org/plugins/jekyll-exporter/) to migrate current
@@ -126,7 +128,7 @@ images, and content on WordPress into files that will work with Hugo.
 Now we can copy over the converted blog post files exported from the plugin into
 Hugo, inside `/content/blog` .
 
-#### Keeping the Images
+## Keeping the Images
 
 To keep any images, you can copy over the exported`wp-content` folder into the
 `static` folder in your Hugo project. Anything inside the `static` folder can be
@@ -138,13 +140,13 @@ relative path. Example:
 `http://wordpress-domain.com/wp-content/uploads/image.jpg` will be changed to
 `/wp-content/uploads/image.jpg`
 
-![](https://cdn-images-1.medium.com/max/1600/1*0FpUs-a9u2TmDoXfg-8BQw.gif)
+![null](https://cdn-images-1.medium.com/max/1600/1*0FpUs-a9u2TmDoXfg-8BQw.gif)
 
 To host and deploy your Hugo website for free. You can either use
 [Netlify](https://www.netlify.com/) or [GitHub
 Pages](https://pages.github.com/).
 
-#### Netlify
+# Netlify
 
 Steps to deploy using Netlify:
 
@@ -167,18 +169,16 @@ repository](https://github.com/xphong/hugo-demo) Netlify builds and deploys to
 Furthermore, you can add your own [custom
 domain](https://www.netlify.com/docs/custom-domains/) to Netlify.
 
-#### GitHub Pages
+# GitHub Pages
 
 Steps to deploy using GitHub Pages:
 
 1. Create another repository with `<username>.github.io` to host the Hugo website.
 2. In your original Hugo project repository, add your `<username>.github.io` repository as a submodule:
-
    ```
    git submodule add -b master <username>/<username>.github.io.git public
    git push
    ```
-
 3. Create a deploy script called `deploy.sh` in the root of your Hugo project
    repository:
    ```
@@ -209,8 +209,7 @@ Steps to deploy using GitHub Pages:
    cd ..
    ```
 4. Run the deploy script:
-
-   ```sh deploy.sh```
+   `sh deploy.sh`
 
 [More on GitHub page deploys](https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-project-pages) if you want to use project pages or deploy from a different branch.
 
