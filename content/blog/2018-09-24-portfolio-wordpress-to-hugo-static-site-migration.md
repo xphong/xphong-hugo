@@ -66,11 +66,24 @@ site.](https://gohugo.io/getting-started/quick-start/)
 ## Steps:
 
 1) Install Hugo:
-   brew install hugo
+
+```
+brew install hugo
+```
+
 2) Create a New Site in your repository’s directory:
-   hugo new site . --force
+
+```
+hugo new site . --force
+```
+
 3) Add a Theme (the current theme I am using is called
    [sustain](https://github.com/nurlansu/hugo-sustain/)):
+
+```
+git clone https://github.com/nurlansu/hugo-sustain.git themes/hugo-sustain
+```
+
 4) Update the config.toml file (depending on your theme):
 
 
@@ -159,10 +172,12 @@ Pages](https://pages.github.com/).
 
 Steps to deploy using Netlify:
 
-1. First [signup](https://app.netlify.com/signup) for a Netlify account.
-2. [Create a new site](https://app.netlify.com/start) linked to your GitHub
+1) First [signup](https://app.netlify.com/signup) for a Netlify account.
+
+2) [Create a new site](https://app.netlify.com/start) linked to your GitHub
    repository.
-3. Select your options and deploy.
+
+3) Select your options and deploy.
 
 ![null](https://cdn-images-1.medium.com/max/1600/1*lKuI4WdKycxnIPjDK_ZsOQ.png)
 
