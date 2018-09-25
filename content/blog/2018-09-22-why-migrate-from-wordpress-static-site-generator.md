@@ -48,4 +48,4 @@ With static sites, there is no dynamic data storage which means there's nothing 
 
 In conclusion, moving to a static site from a dynamic site like WordPress has many benefits including cost savings, quick page load times, and increased security.
 
-Check out Part 2 (In Progress) for steps on how to get started with the migration.
+Check out ![Part 2](https://phong.io/blog/2018-09-24-portfolio-wordpress-to-hugo-static-site-migration/) for steps on how to get started with the migration.

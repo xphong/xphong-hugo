@@ -49,20 +49,20 @@ Site](https://hugo-blog-demo.netlify.com/)
 
 To get started, you will need to [create a new GitHub
 repository](https://help.github.com/articles/create-a-repo/) for your Hugo
-project. 
+project.
 
 Inside the repository, we will [create a new hugo
-site.](https://gohugo.io/getting-started/quick-start/) 
+site.](https://gohugo.io/getting-started/quick-start/)
 
 ## Steps:
 
-1. Install Hugo: 
+1) Install Hugo:
    brew install hugo
-2. Create a New Site in your repository’s directory:
+2) Create a New Site in your repository’s directory:
    hugo new site . --force
-3. Add a Theme (the current theme I am using is called
+3) Add a Theme (the current theme I am using is called
    [sustain](https://github.com/nurlansu/hugo-sustain/)):
-4. Update the config.toml file (depending on your theme):
+4) Update the config.toml file (depending on your theme):
 
 
 ```
@@ -105,7 +105,7 @@ custom_css = []
   url = "/resume/"
 ```
 
-5. Add Content:
+5) Add Content:
 
 When you run serve your website locally, you should be able to see the Hugo site
 up and running.
@@ -173,14 +173,18 @@ domain](https://www.netlify.com/docs/custom-domains/) to Netlify.
 
 Steps to deploy using GitHub Pages:
 
-1. Create another repository with `<username>.github.io` to host the Hugo website.
-2. In your original Hugo project repository, add your `<username>.github.io` repository as a submodule:
+1) Create another repository with `<username>.github.io` to host the Hugo website.
+
+2) In your original Hugo project repository, add your `<username>.github.io` repository as a submodule:
+
    ```
    git submodule add -b master <username>/<username>.github.io.git public
    git push
    ```
-3. Create a deploy script called `deploy.sh` in the root of your Hugo project
+
+3) Create a deploy script called `deploy.sh` in the root of your Hugo project
    repository:
+
    ```
    #!/bin/bash
 
@@ -208,12 +212,14 @@ Steps to deploy using GitHub Pages:
    # Come Back
    cd ..
    ```
-4. Run the deploy script:
+
+
+4) Run the deploy script:
    `sh deploy.sh`
+
+5) The site should now be deployed at `https://<username>.github.io`
 
 [More on GitHub page deploys](https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-project-pages) if you want to use project pages or deploy from a different branch.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*of0WbtIWj-AM5BEPyv2-pg.png)
 [GitHub Repository for this demo](https://github.com/xphong/hugo-demo) / [Demo Site](https://hugo-blog-demo.netlify.com/)
-
-- - -
