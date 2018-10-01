@@ -3,5 +3,6 @@ module.exports = {
   "globPatterns": [
     "**/*.{html,css,jpeg,ico,jpg,png,js,gif}"
   ],
-  "swDest": "public/sw.js"
+  "swDest": "public/sw.js",
+  "swSrc": "src-sw.js"
 };
