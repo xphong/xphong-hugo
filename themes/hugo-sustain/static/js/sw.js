@@ -5,9 +5,24 @@
 
   if (workbox) {
     console.log(`Yay! Workbox is loaded 🎉`);
-  } else {
-    console.log(`Boo! Workbox didn't load 😬`);
+
+    workbox.routing.registerRoute(
+      /\.(?:js|css)$/,
+      workbox.strategies.staleWhileRevalidate(),
+    );
+
+    workbox.routing.registerRoute(
+      /.*\.(?:png|jpg|jpeg|svg|gif)/,
+      workbox.strategies.cacheFirst({
+        cacheName: 'image-cache',
+        plugins: [
+          new workbox.expiration.Plugin({
+            maxEntries: 20,
+            maxAgeSeconds: 7 * 24 * 60 * 60,
+          })
+        ],
+      })
+    );
   }
-  console.log('hello service worker');
 
 })();
