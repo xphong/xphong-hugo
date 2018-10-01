@@ -1,0 +1,13 @@
+{
+  "name": "xphong-hugo",
+  "version": "1.0.0",
+  "repository": "git@github.com:xphong/xphong-hugo.git",
+  "author": "xphong <xphong@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "hugo && npx workbox injectManifest"
+  },
+  "dependencies": {
+    "workbox-cli": "^3.6.2"
+  }
+}
