@@ -21,3 +21,5 @@ workbox.routing.registerRoute(
     cacheName: 'static-resources',
   }),
 );
+
+workbox.googleAnalytics.initialize();
