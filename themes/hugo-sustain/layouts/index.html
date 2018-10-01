@@ -18,12 +18,17 @@
     {{ partial "footer" . }}
     <script>
         if (window.netlifyIdentity) {
-          window.netlifyIdentity.on("init", user => {
+          window.netlifyIdentity.on('init', user => {
             if (!user) {
-              window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
+              window.netlifyIdentity.on('login', () => {
+                document.location.href = '/admin/';
               });
             }
+          });
+        }
+        if ('serviceWorker' in navigator) {
+          window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/sw.js');
           });
         }
       </script>
