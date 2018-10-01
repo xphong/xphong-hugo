@@ -30,3 +30,10 @@ workbox.routing.registerRoute(
     cacheName: 'google-fonts-stylesheets',
   }),
 );
+
+workbox.routing.registerRoute(
+  /.*(?:googleapis|gstatic)\.com.*$/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'external-resources'
+  }),
+);
