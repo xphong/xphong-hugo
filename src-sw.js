@@ -23,3 +23,10 @@ workbox.routing.registerRoute(
 );
 
 workbox.googleAnalytics.initialize();
+
+workbox.routing.registerRoute(
+  /^https:\/\/fonts\.googleapis\.com/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'google-fonts-stylesheets',
+  }),
+);
