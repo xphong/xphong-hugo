@@ -1,18 +1,5 @@
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.0.0/workbox-sw.js');
 
-workbox.routing.registerRoute(
-  /.*\.(?:png|jpg|jpeg|svg|gif)/,
-  workbox.strategies.cacheFirst({
-    cacheName: 'image-cache',
-    plugins: [
-      new workbox.expiration.Plugin({
-        maxEntries: 20,
-        maxAgeSeconds: 7 * 24 * 60 * 60,
-      })
-    ],
-  })
-);
-
 workbox.precaching.precacheAndRoute([
   {
     "url": "404.html",
@@ -199,3 +186,39 @@ workbox.precaching.precacheAndRoute([
     "revision": "8d1580b2bb05bc397f4e179d483eb32f"
   }
 ]);
+
+workbox.routing.registerRoute(
+  /.*\.(?:png|jpg|jpeg|svg|gif)/,
+  workbox.strategies.cacheFirst({
+    cacheName: 'image-cache',
+    plugins: [
+      new workbox.expiration.Plugin({
+        maxEntries: 20,
+        maxAgeSeconds: 7 * 24 * 60 * 60,
+      })
+    ],
+  })
+);
+
+workbox.routing.registerRoute(
+  /\.(?:js|css)$/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'static-resources',
+  }),
+);
+
+workbox.googleAnalytics.initialize();
+
+workbox.routing.registerRoute(
+  /^https:\/\/fonts\.googleapis\.com/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'google-fonts-stylesheets',
+  }),
+);
+
+workbox.routing.registerRoute(
+  /.*(?:googleapis|gstatic)\.com.*$/,
+  workbox.strategies.staleWhileRevalidate({
+    cacheName: 'external-resources'
+  }),
+);
