@@ -32,7 +32,7 @@ workbox.routing.registerRoute(
 );
 
 workbox.routing.registerRoute(
-  /.*(?:googleapis|gstatic|bootstrapcdn)\.com.*$/,
+  /.*(?:googleapis|gstatic)\.com.*$/,
   workbox.strategies.staleWhileRevalidate({
     cacheName: 'external-resources'
   }),
