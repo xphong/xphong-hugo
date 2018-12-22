@@ -28,17 +28,17 @@ Live scoreboard is a feature that adds real time, live scores from different spo
 
 <br />
 
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/ScribbleLive-logo.png)
+![](/wp-content/uploads/2016/04/ScribbleLive-logo.png)
 
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/ScribbleLive-Homepage-Image-Large.png)
+![](/wp-content/uploads/2016/04/ScribbleLive-Homepage-Image-Large.png)
 
 <h3 align="center">Content Icons</h3>
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/Screen-Shot-2014-06-09-at-4.03.14-PM.png)
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/contenticons2.png)
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/contenticons3.png)
+![](/wp-content/uploads/2016/04/Screen-Shot-2014-06-09-at-4.03.14-PM.png)
+![](/wp-content/uploads/2016/04/contenticons2.png)
+![](/wp-content/uploads/2016/04/contenticons3.png)
 
 <h3 align="center">Content and Audience Analytics Filter Pages</h3>
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/Filtering-Analytics.jpg)
+![](/wp-content/uploads/2016/04/Filtering-Analytics.jpg)
 
 <h3 align="center">Live Scoreboard</h3>
-![](http://www.phonghuynh.ca/wp-content/uploads/2016/04/livescoreboard.png)
+![](/wp-content/uploads/2016/04/livescoreboard.png)
