@@ -18,8 +18,6 @@ tags:
 ---
 This is an error I had while working with a java servlet assignment for my Distributed Computing using Java class. I had to receive parameters entered by a user and then output the receipt. However, I was unable to receive the parameters correctly.
 
-<img class="alignnone" title="Pizza Order" src="http://3.bp.blogspot.com/-4KJyZBA6C7w/T3vhMY8WX3I/AAAAAAAAAGk/bkcY8MYunzY/s320/lab5.jpg" alt="Pizza Order" width="143" height="320" />
-
 <span style="text-decoration: underline;">Problem:</span>
 
 Not receiving parameters entered by a user on a webpage.

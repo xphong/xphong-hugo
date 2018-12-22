@@ -26,8 +26,6 @@ Car model website does not receive check box list items for drop down list items
 
 &nbsp;
 
-[<img class="aligncenter" src="http://1.bp.blogspot.com/-wkM2_LbkGSg/T3s_GDqKPnI/AAAAAAAAAFk/2_0NGsJ_2uQ/s320/aspnissan.jpg" alt="" width="320" height="298" border="0" />](http://1.bp.blogspot.com/-wkM2_LbkGSg/T3s_GDqKPnI/AAAAAAAAAFk/2_0NGsJ_2uQ/s1600/aspnissan.jpg)
-
 &nbsp;
 
 &nbsp;
