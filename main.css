@@ -3,8 +3,6 @@ html, body {
   height: 100%;
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
-  /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #3ea5ce;
 }
 
 /* Wrapper for page content to push down footer */
@@ -187,9 +185,6 @@ html, body {
 }
 .text-muted {
 	color: #6b6b6b;
-}
-div.footer{
-  border-bottom: 5px solid #3ea5ce;;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
