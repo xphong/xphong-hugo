@@ -11,8 +11,13 @@ source:
     url: https://github.com/xphong/simple-react-redux-starter
 
   - icon: fa fa-pencil
+    name: How to Build a Mentorship Program From the Ground Up
+    description: Blog post on I built up a mentorship program.
+    url: https://lattice.com/library/how-to-start-a-mentorship-program-from-the-ground-up
+
+  - icon: fa fa-pencil
     name: Why End-to-End Testing is Important for Your Team
-    description: Blog post on how our team implemented end to end testing in 4 easy steps.
+    description: Blog post on how I implemented end to end testing in 4 easy steps.
     url: https://medium.freecodecamp.org/why-end-to-end-testing-is-important-for-your-team-cb7eb0ec1504
 
   - icon: fa fa-pencil
