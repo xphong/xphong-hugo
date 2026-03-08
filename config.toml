@@ -1,6 +1,6 @@
 baseurl = "https://phong.io/"
 languageCode = "en-US"
-title = "Software Developer"
+title = "Staff Frontend Engineer"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -14,7 +14,7 @@ enableRobotsTXT = true
 [params]
   avatar = "avatar.jpeg"
   author = "Phong Huynh"
-  description = "Software Developer from Toronto, Canada. Passionate about clean code, minimal design, and learning new things."
+  description = "Staff Frontend Engineer from Toronto, Canada. Passionate about clean code, minimal design, and learning new things."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
